@@ -1,7 +1,7 @@
-%!TEX program = xelatex 
+%!TEX program = xelatex
 
 \documentclass[$size$]{letter}
-\usepackage[letterpaper,margin=1in]{geometry}
+\usepackage[$papersize$,margin=1in]{geometry}
 
 \usepackage{fixltx2e}
 
@@ -45,10 +45,10 @@
                 \textbf{#8}\\
                 {#9}\vspace{6pt}\\
                 #1\\
-                #2, #3 #4\\
-                Phone: #5\\
-                Fax: #6\\
-                Email: \href{mailto:#7}{#7}
+                #2, #3 #4, #5\\
+                Phone: #6\\
+                Fax: #7\\
+                Email: \href{mailto:#8}{#8}
                 }
             }
         }}
@@ -61,7 +61,7 @@ $endif$
 
 \begin{document}
 
-\header{$head.address$}{$head.city$}{$head.state$}{$head.zip$}{$head.phone$}{$head.fax$}{$head.email$}{$sig.name$}{$head.dept$}
+\header{$head.address$}{$head.city$}{$head.state$}{$head.zip$}{$head.country$}{$head.phone$}{$head.fax$}{$head.email$}{$sig.name$}{$head.dept$}
 
 
 \vspace{0.5in}
@@ -71,7 +71,7 @@ $body$
 $if(sig.include)$
     \begin{minipage}[t]{6.5in}
     Sincerely,\\
-    
+
     \vspace{0.1in}
 
     $if(sig.sign)$

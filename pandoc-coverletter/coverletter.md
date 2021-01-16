@@ -1,11 +1,13 @@
 ---
 size: 11pt
+papersize: letterpaper
 draft: no
 head:
     address: '123 Research Ave, Science Building 2'
     city: Cambridge
     state: MA
     zip: 02114
+    country: USA
     phone: '\(121\) 555-2234'
     fax: '\(999\) 555-6565'
     email: 'hannigan@gmail.com'
