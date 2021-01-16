@@ -2,7 +2,7 @@
 
 echo Running Pandoc...
 pandoc \
-	--latex-engine=xelatex \
+	--pdf-engine=xelatex \
 	--template=cltemplate.tex \
 	-s ./coverletter.md \
 	-f markdown \
