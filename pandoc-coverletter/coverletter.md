@@ -9,7 +9,6 @@ head:
     zip: 02114
     country: USA
     phone: '\(121\) 555-2234'
-    fax: '\(999\) 555-6565'
     email: 'hannigan@gmail.com'
     dept: "Microbiology & Bioinformatics"
 sig:
