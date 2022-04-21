@@ -1,0 +1,2613 @@
+<?xml version='1.0' encoding='utf8'?>
+<records retrieved="28" selected="28" start="1" xmlns="http://ads.harvard.edu/schema/abs/1.1/references" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ads.harvard.edu/schema/abs/1.1/references http://ads.harvard.edu/schema/abs/1.1/references.xsd">
+<record>
+<bibcode>2021MNRAS.500.1232F</bibcode>
+<title>Understanding the HERA Phase I receiver system with simulations and its impact on the detectability of the EoR delay power spectrum</title>
+<author>Fagnoni, Nicolas</author>
+<author>de Lera Acedo, Eloy</author>
+<author>DeBoer, David R.</author>
+<author>Abdurashidova, Zara</author>
+<author>Aguirre, James E.</author>
+<author>Alexander, Paul</author>
+<author>Ali, Zaki S.</author>
+<author>Balfour, Yanga</author>
+<author>Beardsley, Adam P.</author>
+<author>Bernardi, Gianni</author>
+<author>Billings, Tashalee S.</author>
+<author>Bowman, Judd D.</author>
+<author>Bradley, Richard F.</author>
+<author>Bull, Phil</author>
+<author>Burba, Jacob</author>
+<author>Carilli, Chris L.</author>
+<author>Cheng, Carina</author>
+<author>Dexter, Matt</author>
+<author>Dillon, Joshua S.</author>
+<author>Ewall-Wice, Aaron</author>
+<author>Fritz, Randall</author>
+<author>Furlanetto, Steve R.</author>
+<author>Gale-Sides, Kingsley</author>
+<author>Glendenning, Brian</author>
+<author>Gorthi, Deepthi</author>
+<author>Greig, Bradley</author>
+<author>Grobbelaar, Jasper</author>
+<author>Halday, Ziyaad</author>
+<author>Hazelton, Bryna J.</author>
+<author>Hewitt, Jacqueline N.</author>
+<author>Hickish, Jack</author>
+<author>Jacobs, Daniel C.</author>
+<author>Josaitis, Alec</author>
+<author>Julius, Austin</author>
+<author>Kern, Nicholas S.</author>
+<author>Kerrigan, Joshua</author>
+<author>Kim, Honggeun</author>
+<author>Kittiwisit, Piyanat</author>
+<author>Kohn, Saul A.</author>
+<author>Kolopanis, Matthew</author>
+<author>Lanman, Adam</author>
+<author>Plante, Paul La</author>
+<author>Lekalake, Telalo</author>
+<author>Liu, Adrian</author>
+<author>MacMahon, David</author>
+<author>Malan, Lourence</author>
+<author>Malgas, Cresshim</author>
+<author>Maree, Matthys</author>
+<author>Martinot, Zachary E.</author>
+<author>Matsetela, Eunice</author>
+<author>Mena Parra, Juan</author>
+<author>Mesinger, Andrei</author>
+<author>Molewa, Mathakane</author>
+<author>Morales, Miguel F.</author>
+<author>Mosiane, Tshegofalang</author>
+<author>Neben, Abraham R.</author>
+<author>Nikolic, Bojan</author>
+<author>Parsons, Aaron R.</author>
+<author>Patra, Nipanjana</author>
+<author>Pieterse, Samantha</author>
+<author>Pober, Jonathan C.</author>
+<author>Razavi-Ghods, Nima</author>
+<author>Robnett, James</author>
+<author>Rosie, Kathryn</author>
+<author>Sims, Peter</author>
+<author>Smith, Craig</author>
+<author>Syce, Angelo</author>
+<author>Thyagarajan, Nithyanandan</author>
+<author>Williams, Peter K. G.</author>
+<author>Zheng, Haoxuan</author>
+<journal>Monthly Notices of the Royal Astronomical Society, Volume 500, Issue 1, pp.1232-1242</journal>
+<pubdate>Jan 2021</pubdate>
+<link type="abstract">
+<name>abstract</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2021MNRAS.500.1232F/abstract</url>
+</link>
+<link type="coreads">
+<name>Co-Reads</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2021MNRAS.500.1232F/coreads</url>
+</link>
+<link type="EPRINT_HTML">
+<name>arXiv Article</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2021MNRAS.500.1232F/EPRINT_HTML</url>
+</link>
+<link type="PUB_HTML">
+<name>Publisher Article</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2021MNRAS.500.1232F/PUB_HTML</url>
+</link>
+<link access="open" type="EPRINT_PDF">
+<name>arXiv PDF</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2021MNRAS.500.1232F/EPRINT_PDF</url>
+</link>
+<link type="PUB_PDF">
+<name>Publisher PDF</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2021MNRAS.500.1232F/PUB_PDF</url>
+</link>
+<url>https://ui.adsabs.harvard.edu/abs/2021MNRAS.500.1232F</url>
+<DOI>10.1093/mnras/staa3268</DOI>
+<eprintid>arXiv:1908.02383</eprintid>
+</record>
+
+<record>
+<bibcode>2020MNRAS.499.5840D</bibcode>
+<title>Redundant-baseline calibration of the hydrogen epoch of reionization array</title>
+<author>Dillon, Joshua S.</author>
+<author>Lee, Max</author>
+<author>Ali, Zaki S.</author>
+<author>Parsons, Aaron R.</author>
+<author>Orosz, Naomi</author>
+<author>Nunhokee, Chuneeta Devi</author>
+<author>La Plante, Paul</author>
+<author>Beardsley, Adam P.</author>
+<author>Kern, Nicholas S.</author>
+<author>Abdurashidova, Zara</author>
+<author>Aguirre, James E.</author>
+<author>Alexander, Paul</author>
+<author>Balfour, Yanga</author>
+<author>Bernardi, Gianni</author>
+<author>Billings, Tashalee S.</author>
+<author>Bowman, Judd D.</author>
+<author>Bradley, Richard F.</author>
+<author>Bull, Phil</author>
+<author>Burba, Jacob</author>
+<author>Carey, Steve</author>
+<author>Carilli, Chris L.</author>
+<author>Cheng, Carina</author>
+<author>DeBoer, David R.</author>
+<author>Dexter, Matt</author>
+<author>de Lera Acedo, Eloy</author>
+<author>Ely, John</author>
+<author>Ewall-Wice, Aaron</author>
+<author>Fagnoni, Nicolas</author>
+<author>Fritz, Randall</author>
+<author>Furlanetto, Steven R.</author>
+<author>Gale-Sides, Kingsley</author>
+<author>Glendenning, Brian</author>
+<author>Gorthi, Deepthi</author>
+<author>Greig, Bradley</author>
+<author>Grobbelaar, Jasper</author>
+<author>Halday, Ziyaad</author>
+<author>Hazelton, Bryna J.</author>
+<author>Hewitt, Jacqueline N.</author>
+<author>Hickish, Jack</author>
+<author>Jacobs, Daniel C.</author>
+<author>Julius, Austin</author>
+<author>Kerrigan, Joshua</author>
+<author>Kittiwisit, Piyanat</author>
+<author>Kohn, Saul A.</author>
+<author>Kolopanis, Matthew</author>
+<author>Lanman, Adam</author>
+<author>Lekalake, Telalo</author>
+<author>Lewis, David</author>
+<author>Liu, Adrian</author>
+<author>Ma, Yin-Zhe</author>
+<author>MacMahon, David</author>
+<author>Malan, Lourence</author>
+<author>Malgas, Cresshim</author>
+<author>Maree, Matthys</author>
+<author>Martinot, Zachary E.</author>
+<author>Matsetela, Eunice</author>
+<author>Mesinger, Andrei</author>
+<author>Molewa, Mathakane</author>
+<author>Morales, Miguel F.</author>
+<author>Mosiane, Tshegofalang</author>
+<author>Murray, Steven</author>
+<author>Neben, Abraham R.</author>
+<author>Nikolic, Bojan</author>
+<author>Pascua, Robert</author>
+<author>Patra, Nipanjana</author>
+<author>Pieterse, Samantha</author>
+<author>Pober, Jonathan C.</author>
+<author>Razavi-Ghods, Nima</author>
+<author>Ringuette, Jon</author>
+<author>Robnett, James</author>
+<author>Rosie, Kathryn</author>
+<author>Santos, Mario G.</author>
+<author>Sims, Peter</author>
+<author>Smith, Craig</author>
+<author>Syce, Angelo</author>
+<author>Tegmark, Max</author>
+<author>Thyagarajan, Nithyanandan</author>
+<author>Williams, Peter K. G.</author>
+<author>Zheng, Haoxuan</author>
+<journal>Monthly Notices of the Royal Astronomical Society, Volume 499, Issue 4, pp.5840-5861</journal>
+<pubdate>Oct 2020</pubdate>
+<link type="abstract">
+<name>abstract</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2020MNRAS.499.5840D/abstract</url>
+</link>
+<link type="coreads">
+<name>Co-Reads</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2020MNRAS.499.5840D/coreads</url>
+</link>
+<link type="EPRINT_HTML">
+<name>arXiv Article</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2020MNRAS.499.5840D/EPRINT_HTML</url>
+</link>
+<link type="PUB_HTML">
+<name>Publisher Article</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2020MNRAS.499.5840D/PUB_HTML</url>
+</link>
+<link access="open" type="EPRINT_PDF">
+<name>arXiv PDF</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2020MNRAS.499.5840D/EPRINT_PDF</url>
+</link>
+<link type="PUB_PDF">
+<name>Publisher PDF</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2020MNRAS.499.5840D/PUB_PDF</url>
+</link>
+<url>https://ui.adsabs.harvard.edu/abs/2020MNRAS.499.5840D</url>
+<DOI>10.1093/mnras/staa3001</DOI>
+<eprintid>arXiv:2003.08399</eprintid>
+</record>
+
+<record>
+<bibcode>2020ApJ...897....5N</bibcode>
+<title>Measuring HERA's Primary Beam in Situ: Methodology and First Results</title>
+<author>Nunhokee, Chuneeta D.</author>
+<author>Parsons, Aaron R.</author>
+<author>Kern, Nicholas S.</author>
+<author>Nikolic, Bojan</author>
+<author>Pober, Jonathan C.</author>
+<author>Bernardi, Gianni</author>
+<author>Carilli, Chris L.</author>
+<author>Abdurashidova, Zara</author>
+<author>Aguirre, James E.</author>
+<author>Alexander, Paul</author>
+<author>Ali, Zaki S.</author>
+<author>Balfour, Yanga</author>
+<author>Beardsley, Adam P.</author>
+<author>Billings, Tashalee S.</author>
+<author>Bowman, Judd D.</author>
+<author>Bradley, Richard F.</author>
+<author>Burba, Jacob</author>
+<author>Cheng, Carina</author>
+<author>DeBoer, David R.</author>
+<author>Dexter, Matt</author>
+<author>de Lera Acedo, Eloy</author>
+<author>Dillon, Joshua S.</author>
+<author>Ewall-Wice, Aaron</author>
+<author>Fagnoni, Nicolas</author>
+<author>Fritz, Randall</author>
+<author>Furlanetto, Steve R.</author>
+<author>Gale-Sides, Kingsley</author>
+<author>Glendenning, Brian</author>
+<author>Gorthi, Deepthi</author>
+<author>Greig, Bradley</author>
+<author>Grobbelaar, Jasper</author>
+<author>Halday, Ziyaad</author>
+<author>Hazelton, Bryna J.</author>
+<author>Hewitt, Jacqueline N.</author>
+<author>Jacobs, Daniel C.</author>
+<author>Julius, Austin</author>
+<author>Kerrigan, Joshua</author>
+<author>Kittiwisit, Piyanat</author>
+<author>Kohn, Saul A.</author>
+<author>Kolopanis, Matthew</author>
+<author>Lanman, Adam</author>
+<author>L Plante, Paul</author>
+<author>Lekalake, Telalo</author>
+<author>Liu, Adrian</author>
+<author>MacMahon, David</author>
+<author>Malan, Lourence</author>
+<author>Malgas, Cresshim</author>
+<author>Maree, Matthys</author>
+<author>Martinot, Zachary E.</author>
+<author>Matsetela, Eunice</author>
+<author>Mesinger, Andrei</author>
+<author>Molewa, Mathakane</author>
+<author>Morales, Miguel F.</author>
+<author>Mosiane, Tshegofalang</author>
+<author>Neben, Abraham R.</author>
+<author>Patra, Nipanjana</author>
+<author>Pieterse, Samantha</author>
+<author>Razavi-Ghods, Nima</author>
+<author>Ringuette, Jon</author>
+<author>Robnett, James</author>
+<author>Rosie, Kathryn</author>
+<author>Sims, Peter</author>
+<author>Smith, Craig</author>
+<author>Syce, Angelo</author>
+<author>Thyagarajan, Nithyanandan</author>
+<author>Williams, Peter K. G.</author>
+<author>Zheng, Haoxuan</author>
+<journal>The Astrophysical Journal, Volume 897, Issue 1, id.5, 17 pp. (2020)</journal>
+<pubdate>Jul 2020</pubdate>
+<link type="abstract">
+<name>abstract</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2020ApJ...897....5N/abstract</url>
+</link>
+<link type="coreads">
+<name>Co-Reads</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2020ApJ...897....5N/coreads</url>
+</link>
+<link type="EPRINT_HTML">
+<name>arXiv Article</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2020ApJ...897....5N/EPRINT_HTML</url>
+</link>
+<link type="PUB_HTML">
+<name>Publisher Article</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2020ApJ...897....5N/PUB_HTML</url>
+</link>
+<link access="open" type="EPRINT_PDF">
+<name>arXiv PDF</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2020ApJ...897....5N/EPRINT_PDF</url>
+</link>
+<link type="PUB_PDF">
+<name>Publisher PDF</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2020ApJ...897....5N/PUB_PDF</url>
+</link>
+<link type="SIMBAD">
+<name>SIMBAD Database at the CDS</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2020ApJ...897....5N/SIMBAD</url>
+<count>6</count>
+</link>
+<url>https://ui.adsabs.harvard.edu/abs/2020ApJ...897....5N</url>
+<DOI>10.3847/1538-4357/ab9634</DOI>
+<eprintid>arXiv:2005.12174</eprintid>
+</record>
+
+<record>
+<bibcode>2020PhRvD.102b2002T</bibcode>
+<title>Detection of cosmic structures using the bispectrum phase. II. First results from application to cosmic reionization using the Hydrogen Epoch of Reionization Array</title>
+<author>Thyagarajan, Nithyanandan</author>
+<author>Carilli, Chris L.</author>
+<author>Nikolic, Bojan</author>
+<author>Kent, James</author>
+<author>Mesinger, Andrei</author>
+<author>Kern, Nicholas S.</author>
+<author>Bernardi, Gianni</author>
+<author>Matika, Siyanda</author>
+<author>Abdurashidova, Zara</author>
+<author>Aguirre, James E.</author>
+<author>Alexander, Paul</author>
+<author>Ali, Zaki S.</author>
+<author>Balfour, Yanga</author>
+<author>Beardsley, Adam P.</author>
+<author>Billings, Tashalee S.</author>
+<author>Bowman, Judd D.</author>
+<author>Bradley, Richard F.</author>
+<author>Burba, Jacob</author>
+<author>Carey, Steve</author>
+<author>Cheng, Carina</author>
+<author>DeBoer, David R.</author>
+<author>Dexter, Matt</author>
+<author>Acedo, Eloy de Lera</author>
+<author>Dillon, Joshua S.</author>
+<author>Ely, John</author>
+<author>Ewall-Wice, Aaron</author>
+<author>Fagnoni, Nicolas</author>
+<author>Fritz, Randall</author>
+<author>Furlanetto, Steven R.</author>
+<author>Gale-Sides, Kingsley</author>
+<author>Glendenning, Brian</author>
+<author>Gorthi, Deepthi</author>
+<author>Greig, Bradley</author>
+<author>Grobbelaar, Jasper</author>
+<author>Halday, Ziyaad</author>
+<author>Hazelton, Bryna J.</author>
+<author>Hewitt, Jacqueline N.</author>
+<author>Hickish, Jack</author>
+<author>Jacobs, Daniel C.</author>
+<author>Julius, Austin</author>
+<author>Kerrigan, Joshua</author>
+<author>Kittiwisit, Piyanat</author>
+<author>Kohn, Saul A.</author>
+<author>Kolopanis, Matthew</author>
+<author>Lanman, Adam</author>
+<author>La Plante, Paul</author>
+<author>Lekalake, Telalo</author>
+<author>Lewis, David</author>
+<author>Liu, Adrian</author>
+<author>MacMahon, David</author>
+<author>Malan, Lourence</author>
+<author>Malgas, Cresshim</author>
+<author>Maree, Matthys</author>
+<author>Martinot, Zachary E.</author>
+<author>Matsetela, Eunice</author>
+<author>Molewa, Mathakane</author>
+<author>Morales, Miguel F.</author>
+<author>Mosiane, Tshegofalang</author>
+<author>Neben, Abraham R.</author>
+<author>Parsons, Aaron R.</author>
+<author>Patra, Nipanjana</author>
+<author>Pieterse, Samantha</author>
+<author>Pober, Jonathan C.</author>
+<author>Razavi-Ghods, Nima</author>
+<author>Ringuette, Jon</author>
+<author>Robnett, James</author>
+<author>Rosie, Kathryn</author>
+<author>Sims, Peter</author>
+<author>Smith, Craig</author>
+<author>Syce, Angelo</author>
+<author>Williams, Peter K. G.</author>
+<author>Zheng, Haoxuan</author>
+<journal>Physical Review D, Volume 102, Issue 2, article id.022002</journal>
+<pubdate>Jul 2020</pubdate>
+<link type="abstract">
+<name>abstract</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2020PhRvD.102b2002T/abstract</url>
+</link>
+<link type="coreads">
+<name>Co-Reads</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2020PhRvD.102b2002T/coreads</url>
+</link>
+<link type="EPRINT_HTML">
+<name>arXiv Article</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2020PhRvD.102b2002T/EPRINT_HTML</url>
+</link>
+<link type="PUB_HTML">
+<name>Publisher Article</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2020PhRvD.102b2002T/PUB_HTML</url>
+</link>
+<link access="open" type="EPRINT_PDF">
+<name>arXiv PDF</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2020PhRvD.102b2002T/EPRINT_PDF</url>
+</link>
+<url>https://ui.adsabs.harvard.edu/abs/2020PhRvD.102b2002T</url>
+<DOI>10.1103/PhysRevD.102.022002</DOI>
+<eprintid>arXiv:2005.10275</eprintid>
+</record>
+
+<record>
+<bibcode>2020ApJS..247...67C</bibcode>
+<title>Imaging and Modeling Data from the Hydrogen Epoch of Reionization Array</title>
+<author>Carilli, C. L.</author>
+<author>Thyagarajan, N.</author>
+<author>Kent, J.</author>
+<author>Nikolic, B.</author>
+<author>Gale-Sides, K.</author>
+<author>Kern, N. S.</author>
+<author>Bernardi, G.</author>
+<author>Mesinger, A.</author>
+<author>Matika, S.</author>
+<author>Abdurashidova, Zara</author>
+<author>Aguirre, James E.</author>
+<author>Alexander, Paul</author>
+<author>Ali, Zaki S.</author>
+<author>Balfour, Yanga</author>
+<author>Beardsley, Adam P.</author>
+<author>Billings, Tashalee S.</author>
+<author>Bowman, Judd D.</author>
+<author>Bradley, Richard F.</author>
+<author>Bull, Phil</author>
+<author>Burba, Jacob</author>
+<author>Cheng, Carina</author>
+<author>DeBoer, David R.</author>
+<author>Dexter, Matt</author>
+<author>Acedo, Eloy de Lera</author>
+<author>Dillon, Joshua S.</author>
+<author>Ewall-Wice, Aaron</author>
+<author>Fagnoni, Nicolas</author>
+<author>Fritz, Randall</author>
+<author>Furlanetto, Steve R.</author>
+<author>Gale-Sides, Kingsley</author>
+<author>Glendenning, Brian</author>
+<author>Gorthi, Deepthi</author>
+<author>Greig, Bradley</author>
+<author>Grobbelaar, Jasper</author>
+<author>Halday, Ziyaad</author>
+<author>Hazelton, Bryna J.</author>
+<author>Hewitt, Jacqueline N.</author>
+<author>Hickish, Jack</author>
+<author>Jacobs, Daniel C.</author>
+<author>Josaitis, Alec</author>
+<author>Julius, Austin</author>
+<author>Kerrigan, Joshua</author>
+<author>Kim, Honggeun</author>
+<author>Kittiwisit, Piyanat</author>
+<author>Kohn, Saul A.</author>
+<author>Kolopanis, Matthew</author>
+<author>Lanman, Adam</author>
+<author>La Plante, Paul</author>
+<author>Lekalake, Telalo</author>
+<author>Liu, Adrian</author>
+<author>MacMahon, David</author>
+<author>Malan, Lourence</author>
+<author>Malgas, Cresshim</author>
+<author>Maree, Matthys</author>
+<author>Martinot, Zachary E.</author>
+<author>Matsetela, Eunice</author>
+<author>Molewa, Mathakane</author>
+<author>Morales, Miguel F.</author>
+<author>Mosiane, Tshegofalang</author>
+<author>Neben, Abraham R.</author>
+<author>Parra, Juan Mena</author>
+<author>Parsons, Aaron R.</author>
+<author>Patra, Nipanjana</author>
+<author>Pieterse, Samantha</author>
+<author>Pober, Jonathan C.</author>
+<author>Razavi-Ghods, Nima</author>
+<author>Robnett, James</author>
+<author>Rosie, Kathryn</author>
+<author>Sims, Peter</author>
+<author>Syce, Angelo</author>
+<author>Williams, Peter K. G.</author>
+<author>Zheng, Haoxuan</author>
+<journal>The Astrophysical Journal Supplement Series, Volume 247, Issue 2, id.67, 11 pp. (2020)</journal>
+<pubdate>Apr 2020</pubdate>
+<link type="abstract">
+<name>abstract</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2020ApJS..247...67C/abstract</url>
+</link>
+<link type="coreads">
+<name>Co-Reads</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2020ApJS..247...67C/coreads</url>
+</link>
+<link type="PUB_HTML">
+<name>Publisher Article</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2020ApJS..247...67C/PUB_HTML</url>
+</link>
+<link type="PUB_PDF">
+<name>Publisher PDF</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2020ApJS..247...67C/PUB_PDF</url>
+</link>
+<link type="SIMBAD">
+<name>SIMBAD Database at the CDS</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2020ApJS..247...67C/SIMBAD</url>
+<count>1</count>
+</link>
+<link type="NED">
+<name>NASA/IPAC Extragalactic Database</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2020ApJS..247...67C/NED</url>
+<count>1</count>
+</link>
+<url>https://ui.adsabs.harvard.edu/abs/2020ApJS..247...67C</url>
+<DOI>10.3847/1538-4365/ab77b1</DOI>
+</record>
+
+<record>
+<bibcode>2020ApJ...890..122K</bibcode>
+<title>Absolute Calibration Strategies for the Hydrogen Epoch of Reionization Array and Their Impact on the 21 cm Power Spectrum</title>
+<author>Kern, Nicholas S.</author>
+<author>Dillon, Joshua S.</author>
+<author>Parsons, Aaron R.</author>
+<author>Carilli, Christopher L.</author>
+<author>Bernardi, Gianni</author>
+<author>Abdurashidova, Zara</author>
+<author>Aguirre, James E.</author>
+<author>Alexander, Paul</author>
+<author>Ali, Zaki S.</author>
+<author>Balfour, Yanga</author>
+<author>Beardsley, Adam P.</author>
+<author>Billings, Tashalee S.</author>
+<author>Bowman, Judd D.</author>
+<author>Bradley, Richard F.</author>
+<author>Bull, Philip</author>
+<author>Burba, Jacob</author>
+<author>Carey, Steven</author>
+<author>Cheng, Carina</author>
+<author>DeBoer, David R.</author>
+<author>Dexter, Matt</author>
+<author>de Lera Acedo, Eloy</author>
+<author>Ely, John</author>
+<author>Ewall-Wice, Aaron</author>
+<author>Fagnoni, Nicolas</author>
+<author>Fritz, Randall</author>
+<author>Furlanetto, Steve R.</author>
+<author>Gale-Sides, Kingsley</author>
+<author>Glendenning, Brian</author>
+<author>Gorthi, Deepthi</author>
+<author>Greig, Bradley</author>
+<author>Grobbelaar, Jasper</author>
+<author>Halday, Ziyaad</author>
+<author>Hazelton, Bryna J.</author>
+<author>Hewitt, Jacqueline N.</author>
+<author>Hickish, Jack</author>
+<author>Jacobs, Daniel C.</author>
+<author>Julius, Austin</author>
+<author>Kerrigan, Joshua</author>
+<author>Kittiwisit, Piyanat</author>
+<author>Kohn, Saul A.</author>
+<author>Kolopanis, Matthew</author>
+<author>Lanman, Adam</author>
+<author>La Plante, Paul</author>
+<author>Lekalake, Telalo</author>
+<author>Liu, Adrian</author>
+<author>MacMahon, David</author>
+<author>Malan, Lourence</author>
+<author>Malgas, Cresshim</author>
+<author>Maree, Matthys</author>
+<author>Martinot, Zachary E.</author>
+<author>Matsetela, Eunice</author>
+<author>Mesinger, Andrei</author>
+<author>Molewa, Mathakane</author>
+<author>Morales, Miguel F.</author>
+<author>Mosiane, Tshegofalang</author>
+<author>Murray, Steven G.</author>
+<author>Neben, Abraham R.</author>
+<author>Nikolic, Bojan</author>
+<author>Nunhokee, Chuneeta D.</author>
+<author>Patra, Nipanjana</author>
+<author>Pieterse, Samantha</author>
+<author>Pober, Jonathan C.</author>
+<author>Razavi-Ghods, Nima</author>
+<author>Ringuette, Jon</author>
+<author>Robnett, James</author>
+<author>Rosie, Kathryn</author>
+<author>Sims, Peter</author>
+<author>Smith, Craig</author>
+<author>Syce, Angelo</author>
+<author>Thyagarajan, Nithyanandan</author>
+<author>Williams, Peter K. G.</author>
+<author>Zheng, Haoxuan</author>
+<journal>The Astrophysical Journal, Volume 890, Issue 2, id.122, 24 pp. (2020)</journal>
+<pubdate>Feb 2020</pubdate>
+<link type="abstract">
+<name>abstract</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2020ApJ...890..122K/abstract</url>
+</link>
+<link type="coreads">
+<name>Co-Reads</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2020ApJ...890..122K/coreads</url>
+</link>
+<link type="EPRINT_HTML">
+<name>arXiv Article</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2020ApJ...890..122K/EPRINT_HTML</url>
+</link>
+<link type="PUB_HTML">
+<name>Publisher Article</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2020ApJ...890..122K/PUB_HTML</url>
+</link>
+<link access="open" type="EPRINT_PDF">
+<name>arXiv PDF</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2020ApJ...890..122K/EPRINT_PDF</url>
+</link>
+<link type="PUB_PDF">
+<name>Publisher PDF</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2020ApJ...890..122K/PUB_PDF</url>
+</link>
+<link type="SIMBAD">
+<name>SIMBAD Database at the CDS</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2020ApJ...890..122K/SIMBAD</url>
+<count>5</count>
+</link>
+<url>https://ui.adsabs.harvard.edu/abs/2020ApJ...890..122K</url>
+<DOI>10.3847/1538-4357/ab67bc</DOI>
+<eprintid>arXiv:1910.12943</eprintid>
+</record>
+
+<record>
+<bibcode>2020ApJ...888...70K</bibcode>
+<title>Mitigating Internal Instrument Coupling for 21 cm Cosmology. II. A Method Demonstration with the Hydrogen Epoch of Reionization Array</title>
+<author>Kern, Nicholas S.</author>
+<author>Parsons, Aaron R.</author>
+<author>Dillon, Joshua S.</author>
+<author>Lanman, Adam E.</author>
+<author>Liu, Adrian</author>
+<author>Bull, Philip</author>
+<author>Ewall-Wice, Aaron</author>
+<author>Abdurashidova, Zara</author>
+<author>Aguirre, James E.</author>
+<author>Alexander, Paul</author>
+<author>Ali, Zaki S.</author>
+<author>Balfour, Yanga</author>
+<author>Beardsley, Adam P.</author>
+<author>Bernardi, Gianni</author>
+<author>Bowman, Judd D.</author>
+<author>Bradley, Richard F.</author>
+<author>Burba, Jacob</author>
+<author>Carilli, Chris L.</author>
+<author>Cheng, Carina</author>
+<author>DeBoer, David R.</author>
+<author>Dexter, Matt</author>
+<author>de Lera Acedo, Eloy</author>
+<author>Fagnoni, Nicolas</author>
+<author>Fritz, Randall</author>
+<author>Furlanetto, Steve R.</author>
+<author>Glendenning, Brian</author>
+<author>Gorthi, Deepthi</author>
+<author>Greig, Bradley</author>
+<author>Grobbelaar, Jasper</author>
+<author>Halday, Ziyaad</author>
+<author>Hazelton, Bryna J.</author>
+<author>Hewitt, Jacqueline N.</author>
+<author>Hickish, Jack</author>
+<author>Jacobs, Daniel C.</author>
+<author>Julius, Austin</author>
+<author>Kerrigan, Joshua</author>
+<author>Kittiwisit, Piyanat</author>
+<author>Kohn, Saul A.</author>
+<author>Kolopanis, Matthew</author>
+<author>La Plante, Paul</author>
+<author>Lekalake, Telalo</author>
+<author>MacMahon, David</author>
+<author>Malan, Lourence</author>
+<author>Malgas, Cresshim</author>
+<author>Maree, Matthys</author>
+<author>Martinot, Zachary E.</author>
+<author>Matsetela, Eunice</author>
+<author>Mesinger, Andrei</author>
+<author>Molewa, Mathakane</author>
+<author>Morales, Miguel F.</author>
+<author>Mosiane, Tshegofalang</author>
+<author>Murray, Steven G.</author>
+<author>Neben, Abraham R.</author>
+<author>Parsons, Aaron R.</author>
+<author>Patra, Nipanjana</author>
+<author>Pieterse, Samantha</author>
+<author>Pober, Jonathan C.</author>
+<author>Razavi-Ghods, Nima</author>
+<author>Ringuette, Jon</author>
+<author>Robnett, James</author>
+<author>Rosie, Kathryn</author>
+<author>Sims, Peter</author>
+<author>Smith, Craig</author>
+<author>Syce, Angelo</author>
+<author>Thyagarajan, Nithyanandan</author>
+<author>Williams, Peter K. G.</author>
+<author>Zheng, Haoxuan</author>
+<journal>The Astrophysical Journal, Volume 888, Issue 2, article id. 70, 16 pp. (2020).</journal>
+<pubdate>Jan 2020</pubdate>
+<link type="abstract">
+<name>abstract</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2020ApJ...888...70K/abstract</url>
+</link>
+<link type="coreads">
+<name>Co-Reads</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2020ApJ...888...70K/coreads</url>
+</link>
+<link type="EPRINT_HTML">
+<name>arXiv Article</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2020ApJ...888...70K/EPRINT_HTML</url>
+</link>
+<link type="PUB_HTML">
+<name>Publisher Article</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2020ApJ...888...70K/PUB_HTML</url>
+</link>
+<link access="open" type="EPRINT_PDF">
+<name>arXiv PDF</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2020ApJ...888...70K/EPRINT_PDF</url>
+</link>
+<link type="PUB_PDF">
+<name>Publisher PDF</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2020ApJ...888...70K/PUB_PDF</url>
+</link>
+<url>https://ui.adsabs.harvard.edu/abs/2020ApJ...888...70K</url>
+<DOI>10.3847/1538-4357/ab5e8a</DOI>
+<eprintid>arXiv:1909.11733</eprintid>
+</record>
+
+<record>
+<bibcode>2019BAAS...51g.241P</bibcode>
+<title>A Roadmap for Astrophysics and Cosmology with High-Redshift 21 cm Intensity Mapping</title>
+<author>Parsons, Aaron</author>
+<author>Aguirre, James E.</author>
+<author>Beardsley, Adam P.</author>
+<author>Bernardi, Gianni</author>
+<author>Bowman, Judd D.</author>
+<author>Bull, Philip</author>
+<author>Carilli, Chris L.</author>
+<author>Dai, Wei-Ming</author>
+<author>DeBoer, David R.</author>
+<author>Dillon, Joshua S.</author>
+<author>Ewall-Wice, Aaron</author>
+<author>Furlanetto, Steve R.</author>
+<author>Gehlot, Bharat K.</author>
+<author>Gorthi, Deepthi</author>
+<author>Greig, Bradley</author>
+<author>Hazelton, Bryna J.</author>
+<author>Hewitt, Jacqueline N.</author>
+<author>Jacobs, Daniel C.</author>
+<author>Kern, Nicholas S.</author>
+<author>Kittiwisit, Piyanat</author>
+<author>Kolopanis, Matthew</author>
+<author>La Plante, Paul</author>
+<author>Liu, Adrian</author>
+<author>Ma, Yin-Zhe</author>
+<author>Mdlalose, Mthokozisi</author>
+<author>Mirocha, Jordan</author>
+<author>Murray, Steven G.</author>
+<author>Nunhokee, Chuneeta D.</author>
+<author>Pober, Jonathan C.</author>
+<author>Sims, Peter H.</author>
+<author>Thyagarajan, Nithyanandan</author>
+<journal>Astro2020: Decadal Survey on Astronomy and Astrophysics, APC white papers, no. 241; Bulletin of the American Astronomical Society, Vol. 51, Issue 7, id. 241 (2019)</journal>
+<pubdate>Sep 2019</pubdate>
+<link type="abstract">
+<name>abstract</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2019BAAS...51g.241P/abstract</url>
+</link>
+<link type="coreads">
+<name>Co-Reads</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2019BAAS...51g.241P/coreads</url>
+</link>
+<link type="EPRINT_HTML">
+<name>arXiv Article</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2019BAAS...51g.241P/EPRINT_HTML</url>
+</link>
+<link type="PUB_HTML">
+<name>Publisher Article</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2019BAAS...51g.241P/PUB_HTML</url>
+</link>
+<link access="open" type="EPRINT_PDF">
+<name>arXiv PDF</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2019BAAS...51g.241P/EPRINT_PDF</url>
+</link>
+<link access="open" type="PUB_PDF">
+<name>Publisher PDF</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2019BAAS...51g.241P/PUB_PDF</url>
+</link>
+<url>https://ui.adsabs.harvard.edu/abs/2019BAAS...51g.241P</url>
+<eprintid>arXiv:1907.06440</eprintid>
+</record>
+
+<record>
+<bibcode>2019MNRAS.488.2605K</bibcode>
+<title>Optimizing sparse RFI prediction using deep learning</title>
+<author>Kerrigan, Joshua</author>
+<author>La Plante, Paul</author>
+<author>Kohn, Saul</author>
+<author>Pober, Jonathan C.</author>
+<author>Aguirre, James</author>
+<author>Abdurashidova, Zara</author>
+<author>Alexander, Paul</author>
+<author>Ali, Zaki S.</author>
+<author>Balfour, Yanga</author>
+<author>Beardsley, Adam P.</author>
+<author>Bernardi, Gianni</author>
+<author>Bowman, Judd D.</author>
+<author>Bradley, Richard F.</author>
+<author>Burba, Jacob</author>
+<author>Carilli, Chris L.</author>
+<author>Cheng, Carina</author>
+<author>DeBoer, David R.</author>
+<author>Dexter, Matt</author>
+<author>Acedo, Eloy de Lera</author>
+<author>Dillon, Joshua S.</author>
+<author>Estrada, Julia</author>
+<author>Ewall-Wice, Aaron</author>
+<author>Fagnoni, Nicolas</author>
+<author>Fritz, Randall</author>
+<author>Furlanetto, Steve R.</author>
+<author>Glendenning, Brian</author>
+<author>Greig, Bradley</author>
+<author>Grobbelaar, Jasper</author>
+<author>Gorthi, Deepthi</author>
+<author>Halday, Ziyaad</author>
+<author>Hazelton, Bryna J.</author>
+<author>Hickish, Jack</author>
+<author>Jacobs, Daniel C.</author>
+<author>Julius, Austin</author>
+<author>Kern, Nicholas S.</author>
+<author>Kittiwisit, Piyanat</author>
+<author>Kolopanis, Matthew</author>
+<author>Lanman, Adam</author>
+<author>Lekalake, Telalo</author>
+<author>Liu, Adrian</author>
+<author>MacMahon, David</author>
+<author>Malan, Lourence</author>
+<author>Malgas, Cresshim</author>
+<author>Maree, Matthys</author>
+<author>Martinot, Zachary E.</author>
+<author>Matsetela, Eunice</author>
+<author>Mesinger, Andrei</author>
+<author>Molewa, Mathakane</author>
+<author>Morales, Miguel F.</author>
+<author>Mosiane, Tshegofalang</author>
+<author>Neben, Abraham R.</author>
+<author>Parsons, Aaron R.</author>
+<author>Patra, Nipanjana</author>
+<author>Pieterse, Samantha</author>
+<author>Razavi-Ghods, Nima</author>
+<author>Ringuette, Jon</author>
+<author>Robnett, James</author>
+<author>Rosie, Kathryn</author>
+<author>Sims, Peter</author>
+<author>Smith, Craig</author>
+<author>Syce, Angelo</author>
+<author>Thyagarajan, Nithyanandan</author>
+<author>Williams, Peter K. G.</author>
+<author>Zheng, Haoxuan</author>
+<journal>Monthly Notices of the Royal Astronomical Society, Volume 488, Issue 2, p.2605-2615</journal>
+<pubdate>Sep 2019</pubdate>
+<link type="abstract">
+<name>abstract</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2019MNRAS.488.2605K/abstract</url>
+</link>
+<link type="coreads">
+<name>Co-Reads</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2019MNRAS.488.2605K/coreads</url>
+</link>
+<link type="EPRINT_HTML">
+<name>arXiv Article</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2019MNRAS.488.2605K/EPRINT_HTML</url>
+</link>
+<link type="PUB_HTML">
+<name>Publisher Article</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2019MNRAS.488.2605K/PUB_HTML</url>
+</link>
+<link access="open" type="EPRINT_PDF">
+<name>arXiv PDF</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2019MNRAS.488.2605K/EPRINT_PDF</url>
+</link>
+<link type="PUB_PDF">
+<name>Publisher PDF</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2019MNRAS.488.2605K/PUB_PDF</url>
+</link>
+<link type="SIMBAD">
+<name>SIMBAD Database at the CDS</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2019MNRAS.488.2605K/SIMBAD</url>
+<count>1</count>
+</link>
+<url>https://ui.adsabs.harvard.edu/abs/2019MNRAS.488.2605K</url>
+<DOI>10.1093/mnras/stz1865</DOI>
+<eprintid>arXiv:1902.08244</eprintid>
+</record>
+
+<record>
+<bibcode>2019PhDT........23K</bibcode>
+<title>Toward Characterization of the Epoch of Reionization with Redshifted 21 Cm One-point Statistics</title>
+<author>Kittiwisit, Piyanat</author>
+<journal>ProQuest Dissertations And Theses; Thesis (Ph.D.)--Arizona State University, 2019.; Publication Number: AAT 13864345; ISBN: 9781392141328; Source: Dissertation Abstracts International, Volume: 80-09(E), Section: B.; 153 p.</journal>
+<pubdate>Jun 2019</pubdate>
+<link type="PUB_HTML">
+<name>Publisher Article</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2019PhDT........23K/PUB_HTML</url>
+</link>
+<url>https://ui.adsabs.harvard.edu/abs/2019PhDT........23K</url>
+</record>
+
+<record>
+<bibcode>2019AAS...23341505K</bibcode>
+<title>Measuring Higher-order 21 cm One-point Statistics from the Epoch of Reionization</title>
+<author>Kittiwisit, Piyanat</author>
+<journal>American Astronomical Society, AAS Meeting #233, id.415.05</journal>
+<pubdate>Jan 2019</pubdate>
+<link type="abstract">
+<name>abstract</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2019AAS...23341505K/abstract</url>
+</link>
+<url>https://ui.adsabs.harvard.edu/abs/2019AAS...23341505K</url>
+</record>
+
+<record>
+<bibcode>2018ApJ...863..170L</bibcode>
+<title>Comparing Redundant and Sky-model-based Interferometric Calibration: A First Look with Phase II of the MWA</title>
+<author>Li, W.</author>
+<author>Pober, J. C.</author>
+<author>Hazelton, B. J.</author>
+<author>Barry, N.</author>
+<author>Morales, M. F.</author>
+<author>Sullivan, I.</author>
+<author>Parsons, A. R.</author>
+<author>Ali, Z. S.</author>
+<author>Dillon, J. S.</author>
+<author>Beardsley, A. P.</author>
+<author>Bowman, J. D.</author>
+<author>Briggs, F.</author>
+<author>Byrne, R.</author>
+<author>Carroll, P.</author>
+<author>Crosse, B.</author>
+<author>Emrich, D.</author>
+<author>Ewall-Wice, A.</author>
+<author>Feng, L.</author>
+<author>Franzen, T. M. O.</author>
+<author>Hewitt, J. N.</author>
+<author>Horsley, L.</author>
+<author>Jacobs, D. C.</author>
+<author>Johnston-Hollitt, M.</author>
+<author>Jordan, C.</author>
+<author>Joseph, R. C.</author>
+<author>Kaplan, D. L.</author>
+<author>Kenney, D.</author>
+<author>Kim, H.</author>
+<author>Kittiwisit, P.</author>
+<author>Lanman, A.</author>
+<author>Line, J.</author>
+<author>McKinley, B.</author>
+<author>Mitchell, D. A.</author>
+<author>Murray, S.</author>
+<author>Neben, A.</author>
+<author>Offringa, A. R.</author>
+<author>Pallot, D.</author>
+<author>Paul, S.</author>
+<author>Pindor, B.</author>
+<author>Procopio, P.</author>
+<author>Rahimi, M.</author>
+<author>Riding, J.</author>
+<author>Sethi, S. K.</author>
+<author>Udaya Shankar, N.</author>
+<author>Steele, K.</author>
+<author>Subrahmanian, R.</author>
+<author>Tegmark, M.</author>
+<author>Thyagarajan, N.</author>
+<author>Tingay, S. J.</author>
+<author>Trott, C.</author>
+<author>Walker, M.</author>
+<author>Wayth, R. B.</author>
+<author>Webster, R. L.</author>
+<author>Williams, A.</author>
+<author>Wu, C.</author>
+<author>Wyithe, S.</author>
+<journal>The Astrophysical Journal, Volume 863, Issue 2, article id. 170, 16 pp. (2018).</journal>
+<pubdate>Aug 2018</pubdate>
+<link type="abstract">
+<name>abstract</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2018ApJ...863..170L/abstract</url>
+</link>
+<link type="coreads">
+<name>Co-Reads</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2018ApJ...863..170L/coreads</url>
+</link>
+<link type="EPRINT_HTML">
+<name>arXiv Article</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2018ApJ...863..170L/EPRINT_HTML</url>
+</link>
+<link type="PUB_HTML">
+<name>Publisher Article</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2018ApJ...863..170L/PUB_HTML</url>
+</link>
+<link access="open" type="EPRINT_PDF">
+<name>arXiv PDF</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2018ApJ...863..170L/EPRINT_PDF</url>
+</link>
+<link access="open" type="PUB_PDF">
+<name>Publisher PDF</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2018ApJ...863..170L/PUB_PDF</url>
+</link>
+<url>https://ui.adsabs.harvard.edu/abs/2018ApJ...863..170L</url>
+<DOI>10.3847/1538-4357/aad3c3</DOI>
+<eprintid>arXiv:1807.05312</eprintid>
+</record>
+
+<record>
+<bibcode>2018MNRAS.477..864K</bibcode>
+<title>Erratum: Sensitivity of the Hydrogen Epoch of Reionization Array and its Build-out Stages to One-point Statistics from Redshifted 21 cm Observations</title>
+<author>Kittiwisit, Piyanat</author>
+<author>Bowman, Judd D.</author>
+<author>Jacobs, Daniel C.</author>
+<author>Beardsley, Adam P.</author>
+<author>Thyagarajan, Nithyanandan</author>
+<journal>Monthly Notices of the Royal Astronomical Society, Volume 477, Issue 1, p.864-866</journal>
+<pubdate>Jun 2018</pubdate>
+<link type="PUB_HTML">
+<name>Publisher Article</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2018MNRAS.477..864K/PUB_HTML</url>
+</link>
+<link type="PUB_PDF">
+<name>Publisher PDF</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2018MNRAS.477..864K/PUB_PDF</url>
+</link>
+<url>https://ui.adsabs.harvard.edu/abs/2018MNRAS.477..864K</url>
+<DOI>10.1093/mnras/sty884</DOI>
+</record>
+
+<record>
+<bibcode>2018MNRAS.474.4487K</bibcode>
+<title>Sensitivity of the Hydrogen Epoch of Reionization Array and its build-out stages to one-point statistics from redshifted 21 cm observations</title>
+<author>Kittiwisit, Piyanat</author>
+<author>Bowman, Judd D.</author>
+<author>Jacobs, Daniel C.</author>
+<author>Beardsley, Adam P.</author>
+<author>Thyagarajan, Nithyanandan</author>
+<journal>Monthly Notices of the Royal Astronomical Society, Volume 474, Issue 4, p.4487-4499</journal>
+<pubdate>Mar 2018</pubdate>
+<link type="abstract">
+<name>abstract</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2018MNRAS.474.4487K/abstract</url>
+</link>
+<link type="coreads">
+<name>Co-Reads</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2018MNRAS.474.4487K/coreads</url>
+</link>
+<link type="EPRINT_HTML">
+<name>arXiv Article</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2018MNRAS.474.4487K/EPRINT_HTML</url>
+</link>
+<link type="PUB_HTML">
+<name>Publisher Article</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2018MNRAS.474.4487K/PUB_HTML</url>
+</link>
+<link access="open" type="EPRINT_PDF">
+<name>arXiv PDF</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2018MNRAS.474.4487K/EPRINT_PDF</url>
+</link>
+<link type="PUB_PDF">
+<name>Publisher PDF</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2018MNRAS.474.4487K/PUB_PDF</url>
+</link>
+<url>https://ui.adsabs.harvard.edu/abs/2018MNRAS.474.4487K</url>
+<DOI>10.1093/mnras/stx3099</DOI>
+<eprintid>arXiv:1708.00036</eprintid>
+</record>
+
+<record>
+<bibcode>2017yCat..74581057O</bibcode>
+<title>VizieR Online Data Catalog: EoR0 central field source catalog (Offringa+, 2016)</title>
+<author>Offringa, A. R.</author>
+<author>Trott, C. M.</author>
+<author>Hurley-Walker, N.</author>
+<author>Johnston-Hollitt, M.</author>
+<author>McKinley, B.</author>
+<author>Barry, N.</author>
+<author>Beardsley, A. P.</author>
+<author>Bowman, J. D.</author>
+<author>Briggs, F.</author>
+<author>Carroll, P.</author>
+<author>Dillon, J. S.</author>
+<author>Ewall-Wice, A.</author>
+<author>Feng, L.</author>
+<author>Gaensler, B. M.</author>
+<author>Greenhill, L. J.</author>
+<author>Hazelton, B. J.</author>
+<author>Hewitt, J. N.</author>
+<author>Jacobs, D. C.</author>
+<author>Kim, H. -S.</author>
+<author>Kittiwisit, P.</author>
+<author>Lenc, E.</author>
+<author>Line, J.</author>
+<author>Loeb, A.</author>
+<author>Mitchell, D. A.</author>
+<author>Morales, M. F.</author>
+<author>Neben, A. R.</author>
+<author>Paul, S.</author>
+<author>Pindor, B.</author>
+<author>Pober, J. C.</author>
+<author>Procopio, P.</author>
+<author>Riding, J.</author>
+<author>Sethi, S. K.</author>
+<author>Shankar, N. U.</author>
+<author>Subrahmanyan, R.</author>
+<author>Sullivan, I. S.</author>
+<author>Tegmark, M.</author>
+<author>Thyagarajan, N.</author>
+<author>Tingay, S. J.</author>
+<author>Wayth, R. B.</author>
+<author>Webster, R. L.</author>
+<author>Wyithe, J. S. B.</author>
+<journal>VizieR On-line Data Catalog: J/MNRAS/458/1057. Originally published in: 2016MNRAS.458.1057O</journal>
+<pubdate>May 2017</pubdate>
+<link type="abstract">
+<name>abstract</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2017yCat..74581057O/abstract</url>
+</link>
+<link type="CDS">
+<name>Strasbourg Astronomical Data Center</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2017yCat..74581057O/CDS</url>
+<count>1</count>
+</link>
+<url>https://ui.adsabs.harvard.edu/abs/2017yCat..74581057O</url>
+</record>
+
+<record>
+<bibcode>2017ApJ...838...68K</bibcode>
+<title>Spectral Energy Distribution and Radio Halo of NGC 253 at Low Radio Frequencies</title>
+<author>Kapińska, A. D.</author>
+<author>Staveley-Smith, L.</author>
+<author>Crocker, R.</author>
+<author>Meurer, G. R.</author>
+<author>Bhandari, S.</author>
+<author>Hurley-Walker, N.</author>
+<author>Offringa, A. R.</author>
+<author>Hanish, D. J.</author>
+<author>Seymour, N.</author>
+<author>Ekers, R. D.</author>
+<author>Bell, M. E.</author>
+<author>Callingham, J. R.</author>
+<author>Dwarakanath, K. S.</author>
+<author>For, B. -Q.</author>
+<author>Gaensler, B. M.</author>
+<author>Hancock, P. J.</author>
+<author>Hindson, L.</author>
+<author>Johnston-Hollitt, M.</author>
+<author>Lenc, E.</author>
+<author>McKinley, B.</author>
+<author>Morgan, J.</author>
+<author>Procopio, P.</author>
+<author>Wayth, R. B.</author>
+<author>Wu, C.</author>
+<author>Zheng, Q.</author>
+<author>Barry, N.</author>
+<author>Beardsley, A. P.</author>
+<author>Bowman, J. D.</author>
+<author>Briggs, F.</author>
+<author>Carroll, P.</author>
+<author>Dillon, J. S.</author>
+<author>Ewall-Wice, A.</author>
+<author>Feng, L.</author>
+<author>Greenhill, L. J.</author>
+<author>Hazelton, B. J.</author>
+<author>Hewitt, J. N.</author>
+<author>Jacobs, D. J.</author>
+<author>Kim, H. -S.</author>
+<author>Kittiwisit, P.</author>
+<author>Line, J.</author>
+<author>Loeb, A.</author>
+<author>Mitchell, D. A.</author>
+<author>Morales, M. F.</author>
+<author>Neben, A. R.</author>
+<author>Paul, S.</author>
+<author>Pindor, B.</author>
+<author>Pober, J. C.</author>
+<author>Riding, J.</author>
+<author>Sethi, S. K.</author>
+<author>Udaya Shankar, N.</author>
+<author>Subrahmanyan, R.</author>
+<author>Sullivan, I. S.</author>
+<author>Tegmark, M.</author>
+<author>Thyagarajan, N.</author>
+<author>Tingay, S. J.</author>
+<author>Trott, C. M.</author>
+<author>Webster, R. L.</author>
+<author>Wyithe, S. B.</author>
+<author>Cappallo, R. J.</author>
+<author>Deshpande, A. A.</author>
+<author>Kaplan, D. L.</author>
+<author>Lonsdale, C. J.</author>
+<author>McWhirter, S. R.</author>
+<author>Morgan, E.</author>
+<author>Oberoi, D.</author>
+<author>Ord, S. M.</author>
+<author>Prabu, T.</author>
+<author>Srivani, K. S.</author>
+<author>Williams, A.</author>
+<author>Williams, C. L.</author>
+<journal>The Astrophysical Journal, Volume 838, Issue 1, article id. 68, 15 pp. (2017).</journal>
+<pubdate>Mar 2017</pubdate>
+<link type="abstract">
+<name>abstract</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2017ApJ...838...68K/abstract</url>
+</link>
+<link type="coreads">
+<name>Co-Reads</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2017ApJ...838...68K/coreads</url>
+</link>
+<link type="EPRINT_HTML">
+<name>arXiv Article</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2017ApJ...838...68K/EPRINT_HTML</url>
+</link>
+<link type="PUB_HTML">
+<name>Publisher Article</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2017ApJ...838...68K/PUB_HTML</url>
+</link>
+<link access="open" type="EPRINT_PDF">
+<name>arXiv PDF</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2017ApJ...838...68K/EPRINT_PDF</url>
+</link>
+<link access="open" type="PUB_PDF">
+<name>Publisher PDF</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2017ApJ...838...68K/PUB_PDF</url>
+</link>
+<link type="SIMBAD">
+<name>SIMBAD Database at the CDS</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2017ApJ...838...68K/SIMBAD</url>
+<count>3</count>
+</link>
+<link type="NED">
+<name>NASA/IPAC Extragalactic Database</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2017ApJ...838...68K/NED</url>
+<count>1</count>
+</link>
+<url>https://ui.adsabs.harvard.edu/abs/2017ApJ...838...68K</url>
+<DOI>10.3847/1538-4357/aa5f5d</DOI>
+<eprintid>arXiv:1702.02434</eprintid>
+</record>
+
+<record>
+<bibcode>2017mwa..prop..A12W</bibcode>
+<title>Epoch of Reionisation</title>
+<author>Barry, N.</author>
+<author>Beardsley, A.</author>
+<author>Bowman, J.</author>
+<author>Briggs, F.</author>
+<author>Byrne, R.</author>
+<author>Carroll, P.</author>
+<author>Hazelton, B.</author>
+<author>Jacobs, D.</author>
+<author>Jordan, C.</author>
+<author>Kittiwisit, P.</author>
+<author>Lanman, A.</author>
+<author>Lenc, E.</author>
+<author>Li, W.</author>
+<author>Line, J.</author>
+<author>McKinley, B.</author>
+<author>Mitchell, D.</author>
+<author>Morales, M.</author>
+<author>Murray, S.</author>
+<author>Paul, S.</author>
+<author>Pindor, B.</author>
+<author>Pober, J.</author>
+<author>Rahimi, M.</author>
+<author>Riding, J.</author>
+<author>Sethi, S.</author>
+<author>Shankar, U.</author>
+<author>Subrahmanyan, R.</author>
+<author>Sullivan, I.</author>
+<author>Takahashi, K.</author>
+<author>Thyagarajan, N.</author>
+<author>Tingay, S.</author>
+<author>Trott, C.</author>
+<author>Wayth, R.</author>
+<author>Webster, R.</author>
+<author>Wyithe, S.</author>
+<journal>MWA Proposal id.2017A-12</journal>
+<pubdate>Jan 2017</pubdate>
+<link type="abstract">
+<name>abstract</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2017mwa..prop..A12W/abstract</url>
+</link>
+<url>https://ui.adsabs.harvard.edu/abs/2017mwa..prop..A12W</url>
+</record>
+
+<record>
+<bibcode>2016ApJ...833..213P</bibcode>
+<title>Delay Spectrum with Phase-tracking Arrays: Extracting the HI Power Spectrum from the Epoch of Reionization</title>
+<author>Paul, Sourabh</author>
+<author>Sethi, Shiv K.</author>
+<author>Morales, Miguel F.</author>
+<author>Dwarkanath, K. S.</author>
+<author>Udaya Shankar, N.</author>
+<author>Subrahmanyan, Ravi</author>
+<author>Barry, N.</author>
+<author>Beardsley, A. P.</author>
+<author>Bowman, Judd D.</author>
+<author>Briggs, F.</author>
+<author>Carroll, P.</author>
+<author>de Oliveira-Costa, A.</author>
+<author>Dillon, Joshua S.</author>
+<author>Ewall-Wice, A.</author>
+<author>Feng, L.</author>
+<author>Greenhill, L. J.</author>
+<author>Gaensler, B. M.</author>
+<author>Hazelton, B. J.</author>
+<author>Hewitt, J. N.</author>
+<author>Hurley-Walker, N.</author>
+<author>Jacobs, D. J.</author>
+<author>Kim, Han-Seek</author>
+<author>Kittiwisit, P.</author>
+<author>Lenc, E.</author>
+<author>Line, J.</author>
+<author>Loeb, A.</author>
+<author>McKinley, B.</author>
+<author>Mitchell, D. A.</author>
+<author>Neben, A. R.</author>
+<author>Offringa, A. R.</author>
+<author>Pindor, B.</author>
+<author>Pober, J. C.</author>
+<author>Procopio, P.</author>
+<author>Riding, J.</author>
+<author>Sullivan, I. S.</author>
+<author>Tegmark, M.</author>
+<author>Thyagarajan, Nithyanandan</author>
+<author>Tingay, S. J.</author>
+<author>Trott, C. M.</author>
+<author>Wayth, R. B.</author>
+<author>Webster, R. L.</author>
+<author>Wyithe, J. S. B.</author>
+<author>Cappallo, Roger</author>
+<author>Johnston-Hollitt, M.</author>
+<author>Kaplan, D. L.</author>
+<author>Lonsdale, C. J.</author>
+<author>McWhirter, S. R.</author>
+<author>Morgan, E.</author>
+<author>Oberoi, D.</author>
+<author>Ord, S. M.</author>
+<author>Prabu, T.</author>
+<author>Srivani, K. S.</author>
+<author>Williams, A.</author>
+<author>Williams, C. L.</author>
+<journal>The Astrophysical Journal, Volume 833, Issue 2, article id. 213, 16 pp. (2016).</journal>
+<pubdate>Dec 2016</pubdate>
+<link type="abstract">
+<name>abstract</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2016ApJ...833..213P/abstract</url>
+</link>
+<link type="coreads">
+<name>Co-Reads</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2016ApJ...833..213P/coreads</url>
+</link>
+<link type="EPRINT_HTML">
+<name>arXiv Article</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2016ApJ...833..213P/EPRINT_HTML</url>
+</link>
+<link type="PUB_HTML">
+<name>Publisher Article</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2016ApJ...833..213P/PUB_HTML</url>
+</link>
+<link access="open" type="EPRINT_PDF">
+<name>arXiv PDF</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2016ApJ...833..213P/EPRINT_PDF</url>
+</link>
+<link access="open" type="PUB_PDF">
+<name>Publisher PDF</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2016ApJ...833..213P/PUB_PDF</url>
+</link>
+<link type="SIMBAD">
+<name>SIMBAD Database at the CDS</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2016ApJ...833..213P/SIMBAD</url>
+<count>2</count>
+</link>
+<url>https://ui.adsabs.harvard.edu/abs/2016ApJ...833..213P</url>
+<DOI>10.3847/1538-4357/833/2/213</DOI>
+<eprintid>arXiv:1610.07003</eprintid>
+</record>
+
+<record>
+<bibcode>2016arXiv161006100K</bibcode>
+<title>Impact of Instrument Responses on the Detectability of One-point Statistics from Redshifted 21 cm Observations</title>
+<author>Kittiwisit, Piyanat</author>
+<author>Bowman, Judd D.</author>
+<author>Jacobs, Daniel C.</author>
+<author>Thyagarajan, Nithyanandan</author>
+<author>Beardsley, Adam P.</author>
+<journal>eprint arXiv:1610.06100</journal>
+<pubdate>Oct 2016</pubdate>
+<link type="abstract">
+<name>abstract</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2016arXiv161006100K/abstract</url>
+</link>
+<link type="coreads">
+<name>Co-Reads</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2016arXiv161006100K/coreads</url>
+</link>
+<link type="EPRINT_HTML">
+<name>arXiv Article</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2016arXiv161006100K/EPRINT_HTML</url>
+</link>
+<link access="open" type="EPRINT_PDF">
+<name>arXiv PDF</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2016arXiv161006100K/EPRINT_PDF</url>
+</link>
+<url>https://ui.adsabs.harvard.edu/abs/2016arXiv161006100K</url>
+<eprintid>arXiv:1610.06100</eprintid>
+</record>
+
+<record>
+<bibcode>2016mwa..prop..B04W</bibcode>
+<title>Epoch of Reionisation</title>
+<author>Barry, N.</author>
+<author>Beardsley, A.</author>
+<author>Bowman, J.</author>
+<author>Briggs, F.</author>
+<author>Byrne, R.</author>
+<author>Carroll, P.</author>
+<author>Hazelton, B.</author>
+<author>Jacobs, D.</author>
+<author>Jordan, C.</author>
+<author>Kittiwisit, P.</author>
+<author>Lanman, A.</author>
+<author>Lenc, E.</author>
+<author>Li, W.</author>
+<author>Line, J.</author>
+<author>McKinley, B.</author>
+<author>Mitchell, D.</author>
+<author>Morales, M.</author>
+<author>Murray, S.</author>
+<author>Paul, S.</author>
+<author>Pindor, B.</author>
+<author>Pober, J.</author>
+<author>Procopio, P.</author>
+<author>Rahimi, M.</author>
+<author>Riding, J.</author>
+<author>Sethi, S.</author>
+<author>Shankar, U.</author>
+<author>Subrahmanyan, R.</author>
+<author>Sullivan, I.</author>
+<author>Takahashi, K.</author>
+<author>Thyagarajan, N.</author>
+<author>Tingay, S.</author>
+<author>Trott, C.</author>
+<author>Wayth, R.</author>
+<author>Webster, R.</author>
+<author>Wyithe, S.</author>
+<journal>MWA Proposal id.2016B-04</journal>
+<pubdate>Jul 2016</pubdate>
+<link type="abstract">
+<name>abstract</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2016mwa..prop..B04W/abstract</url>
+</link>
+<url>https://ui.adsabs.harvard.edu/abs/2016mwa..prop..B04W</url>
+</record>
+
+<record>
+<bibcode>2016MNRAS.458.1057O</bibcode>
+<title>Parametrizing Epoch of Reionization foregrounds: a deep survey of low-frequency point-source spectra with the Murchison Widefield Array</title>
+<author>Offringa, A. R.</author>
+<author>Trott, C. M.</author>
+<author>Hurley-Walker, N.</author>
+<author>Johnston-Hollitt, M.</author>
+<author>McKinley, B.</author>
+<author>Barry, N.</author>
+<author>Beardsley, A. P.</author>
+<author>Bowman, J. D.</author>
+<author>Briggs, F.</author>
+<author>Carroll, P.</author>
+<author>Dillon, J. S.</author>
+<author>Ewall-Wice, A.</author>
+<author>Feng, L.</author>
+<author>Gaensler, B. M.</author>
+<author>Greenhill, L. J.</author>
+<author>Hazelton, B. J.</author>
+<author>Hewitt, J. N.</author>
+<author>Jacobs, D. C.</author>
+<author>Kim, H. -S.</author>
+<author>Kittiwisit, P.</author>
+<author>Lenc, E.</author>
+<author>Line, J.</author>
+<author>Loeb, A.</author>
+<author>Mitchell, D. A.</author>
+<author>Morales, M. F.</author>
+<author>Neben, A. R.</author>
+<author>Paul, S.</author>
+<author>Pindor, B.</author>
+<author>Pober, J. C.</author>
+<author>Procopio, P.</author>
+<author>Riding, J.</author>
+<author>Sethi, S. K.</author>
+<author>Shankar, N. U.</author>
+<author>Subrahmanyan, R.</author>
+<author>Sullivan, I. S.</author>
+<author>Tegmark, M.</author>
+<author>Thyagarajan, N.</author>
+<author>Tingay, S. J.</author>
+<author>Wayth, R. B.</author>
+<author>Webster, R. L.</author>
+<author>Wyithe, J. S. B.</author>
+<journal>Monthly Notices of the Royal Astronomical Society, Volume 458, Issue 1, p.1057-1070</journal>
+<pubdate>May 2016</pubdate>
+<link type="abstract">
+<name>abstract</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2016MNRAS.458.1057O/abstract</url>
+</link>
+<link type="coreads">
+<name>Co-Reads</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2016MNRAS.458.1057O/coreads</url>
+</link>
+<link type="EPRINT_HTML">
+<name>arXiv Article</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2016MNRAS.458.1057O/EPRINT_HTML</url>
+</link>
+<link type="PUB_HTML">
+<name>Publisher Article</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2016MNRAS.458.1057O/PUB_HTML</url>
+</link>
+<link access="open" type="EPRINT_PDF">
+<name>arXiv PDF</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2016MNRAS.458.1057O/EPRINT_PDF</url>
+</link>
+<link access="open" type="PUB_PDF">
+<name>Publisher PDF</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2016MNRAS.458.1057O/PUB_PDF</url>
+</link>
+<link type="SIMBAD">
+<name>SIMBAD Database at the CDS</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2016MNRAS.458.1057O/SIMBAD</url>
+<count>10</count>
+</link>
+<link type="NED">
+<name>NASA/IPAC Extragalactic Database</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2016MNRAS.458.1057O/NED</url>
+<count>589</count>
+</link>
+<link type="CDS">
+<name>Strasbourg Astronomical Data Center</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2016MNRAS.458.1057O/CDS</url>
+<count>1</count>
+</link>
+<url>https://ui.adsabs.harvard.edu/abs/2016MNRAS.458.1057O</url>
+<DOI>10.1093/mnras/stw310</DOI>
+<eprintid>arXiv:1602.02247</eprintid>
+</record>
+
+<record>
+<bibcode>2016ApJ...819....8P</bibcode>
+<title>The Importance of Wide-field Foreground Removal for 21 cm Cosmology: A Demonstration with Early MWA Epoch of Reionization Observations</title>
+<author>Pober, J. C.</author>
+<author>Hazelton, B. J.</author>
+<author>Beardsley, A. P.</author>
+<author>Barry, N. A.</author>
+<author>Martinot, Z. E.</author>
+<author>Sullivan, I. S.</author>
+<author>Morales, M. F.</author>
+<author>Bell, M. E.</author>
+<author>Bernardi, G.</author>
+<author>Bhat, N. D. R.</author>
+<author>Bowman, J. D.</author>
+<author>Briggs, F.</author>
+<author>Cappallo, R. J.</author>
+<author>Carroll, P.</author>
+<author>Corey, B. E.</author>
+<author>de Oliveira-Costa, A.</author>
+<author>Deshpande, A. A.</author>
+<author>Dillon, Joshua. S.</author>
+<author>Emrich, D.</author>
+<author>Ewall-Wice, A. M.</author>
+<author>Feng, L.</author>
+<author>Goeke, R.</author>
+<author>Greenhill, L. J.</author>
+<author>Hewitt, J. N.</author>
+<author>Hindson, L.</author>
+<author>Hurley-Walker, N.</author>
+<author>Jacobs, D. C.</author>
+<author>Johnston-Hollitt, M.</author>
+<author>Kaplan, D. L.</author>
+<author>Kasper, J. C.</author>
+<author>Kim, Han-Seek</author>
+<author>Kittiwisit, P.</author>
+<author>Kratzenberg, E.</author>
+<author>Kudryavtseva, N.</author>
+<author>Lenc, E.</author>
+<author>Line, J.</author>
+<author>Loeb, A.</author>
+<author>Lonsdale, C. J.</author>
+<author>Lynch, M. J.</author>
+<author>McKinley, B.</author>
+<author>McWhirter, S. R.</author>
+<author>Mitchell, D. A.</author>
+<author>Morgan, E.</author>
+<author>Neben, A. R.</author>
+<author>Oberoi, D.</author>
+<author>Offringa, A. R.</author>
+<author>Ord, S. M.</author>
+<author>Paul, Sourabh</author>
+<author>Pindor, B.</author>
+<author>Prabu, T.</author>
+<author>Procopio, P.</author>
+<author>Riding, J.</author>
+<author>Rogers, A. E. E.</author>
+<author>Roshi, A.</author>
+<author>Sethi, Shiv K.</author>
+<author>Udaya Shankar, N.</author>
+<author>Srivani, K. S.</author>
+<author>Subrahmanyan, R.</author>
+<author>Tegmark, M.</author>
+<author>Thyagarajan, Nithyanandan</author>
+<author>Tingay, S. J.</author>
+<author>Trott, C. M.</author>
+<author>Waterson, M.</author>
+<author>Wayth, R. B.</author>
+<author>Webster, R. L.</author>
+<author>Whitney, A. R.</author>
+<author>Williams, A.</author>
+<author>Williams, C. L.</author>
+<author>Wyithe, J. S. B.</author>
+<journal>The Astrophysical Journal, Volume 819, Issue 1, article id. 8, 13 pp. (2016).</journal>
+<pubdate>Mar 2016</pubdate>
+<link type="abstract">
+<name>abstract</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2016ApJ...819....8P/abstract</url>
+</link>
+<link type="coreads">
+<name>Co-Reads</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2016ApJ...819....8P/coreads</url>
+</link>
+<link type="EPRINT_HTML">
+<name>arXiv Article</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2016ApJ...819....8P/EPRINT_HTML</url>
+</link>
+<link type="PUB_HTML">
+<name>Publisher Article</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2016ApJ...819....8P/PUB_HTML</url>
+</link>
+<link access="open" type="EPRINT_PDF">
+<name>arXiv PDF</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2016ApJ...819....8P/EPRINT_PDF</url>
+</link>
+<link access="open" type="PUB_PDF">
+<name>Publisher PDF</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2016ApJ...819....8P/PUB_PDF</url>
+</link>
+<url>https://ui.adsabs.harvard.edu/abs/2016ApJ...819....8P</url>
+<DOI>10.3847/0004-637X/819/1/8</DOI>
+<eprintid>arXiv:1601.06177</eprintid>
+</record>
+
+<record>
+<bibcode>2016AAS...22714007B</bibcode>
+<title>Foreground Characterization for the Murchison Widefield Array Using the Jansky Very Large Array</title>
+<author>Busch, Michael P.</author>
+<author>Bowman, Judd D.</author>
+<author>Kittiwisit, Piyanat</author>
+<author>Jacobs, Danny</author>
+<journal>American Astronomical Society, AAS Meeting #227, id.140.07</journal>
+<pubdate>Jan 2016</pubdate>
+<link type="abstract">
+<name>abstract</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2016AAS...22714007B/abstract</url>
+</link>
+<url>https://ui.adsabs.harvard.edu/abs/2016AAS...22714007B</url>
+</record>
+
+<record>
+<bibcode>2015ApJ...807L..28T</bibcode>
+<title>Confirmation of Wide-field Signatures in Redshifted 21 cm Power Spectra</title>
+<author>Thyagarajan, Nithyanandan</author>
+<author>Jacobs, Daniel C.</author>
+<author>Bowman, Judd D.</author>
+<author>Barry, N.</author>
+<author>Beardsley, A. P.</author>
+<author>Bernardi, G.</author>
+<author>Briggs, F.</author>
+<author>Cappallo, R. J.</author>
+<author>Carroll, P.</author>
+<author>Deshpande, A. A.</author>
+<author>de Oliveira-Costa, A.</author>
+<author>Dillon, Joshua S.</author>
+<author>Ewall-Wice, A.</author>
+<author>Feng, L.</author>
+<author>Greenhill, L. J.</author>
+<author>Hazelton, B. J.</author>
+<author>Hernquist, L.</author>
+<author>Hewitt, J. N.</author>
+<author>Hurley-Walker, N.</author>
+<author>Johnston-Hollitt, M.</author>
+<author>Kaplan, D. L.</author>
+<author>Kim, Han-Seek</author>
+<author>Kittiwisit, P.</author>
+<author>Lenc, E.</author>
+<author>Line, J.</author>
+<author>Loeb, A.</author>
+<author>Lonsdale, C. J.</author>
+<author>McKinley, B.</author>
+<author>McWhirter, S. R.</author>
+<author>Mitchell, D. A.</author>
+<author>Morales, M. F.</author>
+<author>Morgan, E.</author>
+<author>Neben, A. R.</author>
+<author>Oberoi, D.</author>
+<author>Offringa, A. R.</author>
+<author>Ord, S. M.</author>
+<author>Paul, Sourabh</author>
+<author>Pindor, B.</author>
+<author>Pober, J. C.</author>
+<author>Prabu, T.</author>
+<author>Procopio, P.</author>
+<author>Riding, J.</author>
+<author>Udaya Shankar, N.</author>
+<author>Sethi, Shiv K.</author>
+<author>Srivani, K. S.</author>
+<author>Subrahmanyan, R.</author>
+<author>Sullivan, I. S.</author>
+<author>Tegmark, M.</author>
+<author>Tingay, S. J.</author>
+<author>Trott, C. M.</author>
+<author>Wayth, R. B.</author>
+<author>Webster, R. L.</author>
+<author>Williams, A.</author>
+<author>Williams, C. L.</author>
+<author>Wyithe, J. S. B.</author>
+<journal>The Astrophysical Journal Letters, Volume 807, Issue 2, article id. L28, 5 pp. (2015).</journal>
+<pubdate>Jul 2015</pubdate>
+<link type="abstract">
+<name>abstract</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2015ApJ...807L..28T/abstract</url>
+</link>
+<link type="coreads">
+<name>Co-Reads</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2015ApJ...807L..28T/coreads</url>
+</link>
+<link type="EPRINT_HTML">
+<name>arXiv Article</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2015ApJ...807L..28T/EPRINT_HTML</url>
+</link>
+<link type="PUB_HTML">
+<name>Publisher Article</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2015ApJ...807L..28T/PUB_HTML</url>
+</link>
+<link access="open" type="EPRINT_PDF">
+<name>arXiv PDF</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2015ApJ...807L..28T/EPRINT_PDF</url>
+</link>
+<link access="open" type="PUB_PDF">
+<name>Publisher PDF</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2015ApJ...807L..28T/PUB_PDF</url>
+</link>
+<link type="SIMBAD">
+<name>SIMBAD Database at the CDS</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2015ApJ...807L..28T/SIMBAD</url>
+<count>1</count>
+</link>
+<url>https://ui.adsabs.harvard.edu/abs/2015ApJ...807L..28T</url>
+<DOI>10.1088/2041-8205/807/2/L28</DOI>
+<eprintid>arXiv:1506.06150</eprintid>
+</record>
+
+<record>
+<bibcode>2015PhRvD..91l3011D</bibcode>
+<title>Empirical covariance modeling for 21 cm power spectrum estimation: A method demonstration and new limits from early Murchison Widefield Array 128-tile data</title>
+<author>Dillon, Joshua S.</author>
+<author>Neben, Abraham R.</author>
+<author>Hewitt, Jacqueline N.</author>
+<author>Tegmark, Max</author>
+<author>Barry, N.</author>
+<author>Beardsley, A. P.</author>
+<author>Bowman, J. D.</author>
+<author>Briggs, F.</author>
+<author>Carroll, P.</author>
+<author>de Oliveira-Costa, A.</author>
+<author>Ewall-Wice, A.</author>
+<author>Feng, L.</author>
+<author>Greenhill, L. J.</author>
+<author>Hazelton, B. J.</author>
+<author>Hernquist, L.</author>
+<author>Hurley-Walker, N.</author>
+<author>Jacobs, D. C.</author>
+<author>Kim, H. S.</author>
+<author>Kittiwisit, P.</author>
+<author>Lenc, E.</author>
+<author>Line, J.</author>
+<author>Loeb, A.</author>
+<author>McKinley, B.</author>
+<author>Mitchell, D. A.</author>
+<author>Morales, M. F.</author>
+<author>Offringa, A. R.</author>
+<author>Paul, S.</author>
+<author>Pindor, B.</author>
+<author>Pober, J. C.</author>
+<author>Procopio, P.</author>
+<author>Riding, J.</author>
+<author>Sethi, S.</author>
+<author>Shankar, N. Udaya</author>
+<author>Subrahmanyan, R.</author>
+<author>Sullivan, I.</author>
+<author>Thyagarajan, Nithyanandan</author>
+<author>Tingay, S. J.</author>
+<author>Trott, C.</author>
+<author>Wayth, R. B.</author>
+<author>Webster, R. L.</author>
+<author>Wyithe, S.</author>
+<author>Bernardi, G.</author>
+<author>Cappallo, R. J.</author>
+<author>Deshpande, A. A.</author>
+<author>Johnston-Hollitt, M.</author>
+<author>Kaplan, D. L.</author>
+<author>Lonsdale, C. J.</author>
+<author>McWhirter, S. R.</author>
+<author>Morgan, E.</author>
+<author>Oberoi, D.</author>
+<author>Ord, S. M.</author>
+<author>Prabu, T.</author>
+<author>Srivani, K. S.</author>
+<author>Williams, A.</author>
+<author>Williams, C. L.</author>
+<journal>Physical Review D, Volume 91, Issue 12, id.123011</journal>
+<pubdate>Jun 2015</pubdate>
+<link type="abstract">
+<name>abstract</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2015PhRvD..91l3011D/abstract</url>
+</link>
+<link type="coreads">
+<name>Co-Reads</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2015PhRvD..91l3011D/coreads</url>
+</link>
+<link type="EPRINT_HTML">
+<name>arXiv Article</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2015PhRvD..91l3011D/EPRINT_HTML</url>
+</link>
+<link type="PUB_HTML">
+<name>Publisher Article</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2015PhRvD..91l3011D/PUB_HTML</url>
+</link>
+<link access="open" type="EPRINT_PDF">
+<name>arXiv PDF</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2015PhRvD..91l3011D/EPRINT_PDF</url>
+</link>
+<url>https://ui.adsabs.harvard.edu/abs/2015PhRvD..91l3011D</url>
+<DOI>10.1103/PhysRevD.91.123011</DOI>
+<eprintid>arXiv:1506.01026</eprintid>
+</record>
+
+<record>
+<bibcode>2015ApJ...804...14T</bibcode>
+<title>Foregrounds in Wide-field Redshifted 21 cm Power Spectra</title>
+<author>Thyagarajan, Nithyanandan</author>
+<author>Jacobs, Daniel C.</author>
+<author>Bowman, Judd D.</author>
+<author>Barry, N.</author>
+<author>Beardsley, A. P.</author>
+<author>Bernardi, G.</author>
+<author>Briggs, F.</author>
+<author>Cappallo, R. J.</author>
+<author>Carroll, P.</author>
+<author>Corey, B. E.</author>
+<author>de Oliveira-Costa, A.</author>
+<author>Dillon, Joshua S.</author>
+<author>Emrich, D.</author>
+<author>Ewall-Wice, A.</author>
+<author>Feng, L.</author>
+<author>Goeke, R.</author>
+<author>Greenhill, L. J.</author>
+<author>Hazelton, B. J.</author>
+<author>Hewitt, J. N.</author>
+<author>Hurley-Walker, N.</author>
+<author>Johnston-Hollitt, M.</author>
+<author>Kaplan, D. L.</author>
+<author>Kasper, J. C.</author>
+<author>Kim, Han-Seek</author>
+<author>Kittiwisit, P.</author>
+<author>Kratzenberg, E.</author>
+<author>Lenc, E.</author>
+<author>Line, J.</author>
+<author>Loeb, A.</author>
+<author>Lonsdale, C. J.</author>
+<author>Lynch, M. J.</author>
+<author>McKinley, B.</author>
+<author>McWhirter, S. R.</author>
+<author>Mitchell, D. A.</author>
+<author>Morales, M. F.</author>
+<author>Morgan, E.</author>
+<author>Neben, A. R.</author>
+<author>Oberoi, D.</author>
+<author>Offringa, A. R.</author>
+<author>Ord, S. M.</author>
+<author>Paul, Sourabh</author>
+<author>Pindor, B.</author>
+<author>Pober, J. C.</author>
+<author>Prabu, T.</author>
+<author>Procopio, P.</author>
+<author>Riding, J.</author>
+<author>Rogers, A. E. E.</author>
+<author>Roshi, A.</author>
+<author>Udaya Shankar, N.</author>
+<author>Sethi, Shiv K.</author>
+<author>Srivani, K. S.</author>
+<author>Subrahmanyan, R.</author>
+<author>Sullivan, I. S.</author>
+<author>Tegmark, M.</author>
+<author>Tingay, S. J.</author>
+<author>Trott, C. M.</author>
+<author>Waterson, M.</author>
+<author>Wayth, R. B.</author>
+<author>Webster, R. L.</author>
+<author>Whitney, A. R.</author>
+<author>Williams, A.</author>
+<author>Williams, C. L.</author>
+<author>Wu, C.</author>
+<author>Wyithe, J. S. B.</author>
+<journal>The Astrophysical Journal, Volume 804, Issue 1, article id. 14, 15 pp. (2015).</journal>
+<pubdate>May 2015</pubdate>
+<link type="abstract">
+<name>abstract</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2015ApJ...804...14T/abstract</url>
+</link>
+<link type="coreads">
+<name>Co-Reads</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2015ApJ...804...14T/coreads</url>
+</link>
+<link type="EPRINT_HTML">
+<name>arXiv Article</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2015ApJ...804...14T/EPRINT_HTML</url>
+</link>
+<link type="PUB_HTML">
+<name>Publisher Article</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2015ApJ...804...14T/PUB_HTML</url>
+</link>
+<link access="open" type="EPRINT_PDF">
+<name>arXiv PDF</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2015ApJ...804...14T/EPRINT_PDF</url>
+</link>
+<link access="open" type="PUB_PDF">
+<name>Publisher PDF</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2015ApJ...804...14T/PUB_PDF</url>
+</link>
+<link type="SIMBAD">
+<name>SIMBAD Database at the CDS</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2015ApJ...804...14T/SIMBAD</url>
+<count>1</count>
+</link>
+<url>https://ui.adsabs.harvard.edu/abs/2015ApJ...804...14T</url>
+<DOI>10.1088/0004-637X/804/1/14</DOI>
+<eprintid>arXiv:1502.07596</eprintid>
+</record>
+
+<record>
+<bibcode>2015PASA...32....8O</bibcode>
+<title>The Low-Frequency Environment of the Murchison Widefield Array: Radio-Frequency Interference Analysis and Mitigation</title>
+<author>Offringa, A. R.</author>
+<author>Wayth, R. B.</author>
+<author>Hurley-Walker, N.</author>
+<author>Kaplan, D. L.</author>
+<author>Barry, N.</author>
+<author>Beardsley, A. P.</author>
+<author>Bell, M. E.</author>
+<author>Bernardi, G.</author>
+<author>Bowman, J. D.</author>
+<author>Briggs, F.</author>
+<author>Callingham, J. R.</author>
+<author>Cappallo, R. J.</author>
+<author>Carroll, P.</author>
+<author>Deshpande, A. A.</author>
+<author>Dillon, J. S.</author>
+<author>Dwarakanath, K. S.</author>
+<author>Ewall-Wice, A.</author>
+<author>Feng, L.</author>
+<author>For, B. -Q.</author>
+<author>Gaensler, B. M.</author>
+<author>Greenhill, L. J.</author>
+<author>Hancock, P.</author>
+<author>Hazelton, B. J.</author>
+<author>Hewitt, J. N.</author>
+<author>Hindson, L.</author>
+<author>Jacobs, D. C.</author>
+<author>Johnston-Hollitt, M.</author>
+<author>Kapińska, A. D.</author>
+<author>Kim, H. -S.</author>
+<author>Kittiwisit, P.</author>
+<author>Lenc, E.</author>
+<author>Line, J.</author>
+<author>Loeb, A.</author>
+<author>Lonsdale, C. J.</author>
+<author>McKinley, B.</author>
+<author>McWhirter, S. R.</author>
+<author>Mitchell, D. A.</author>
+<author>Morales, M. F.</author>
+<author>Morgan, E.</author>
+<author>Morgan, J.</author>
+<author>Neben, A. R.</author>
+<author>Oberoi, D.</author>
+<author>Ord, S. M.</author>
+<author>Paul, S.</author>
+<author>Pindor, B.</author>
+<author>Pober, J. C.</author>
+<author>Prabu, T.</author>
+<author>Procopio, P.</author>
+<author>Riding, J.</author>
+<author>Udaya Shankar, N.</author>
+<author>Sethi, S.</author>
+<author>Srivani, K. S.</author>
+<author>Staveley-Smith, L.</author>
+<author>Subrahmanyan, R.</author>
+<author>Sullivan, I. S.</author>
+<author>Tegmark, M.</author>
+<author>Thyagarajan, N.</author>
+<author>Tingay, S. J.</author>
+<author>Trott, C. M.</author>
+<author>Webster, R. L.</author>
+<author>Williams, A.</author>
+<author>Williams, C. L.</author>
+<author>Wu, C.</author>
+<author>Wyithe, J. S.</author>
+<author>Zheng, Q.</author>
+<journal>Publications of the Astronomical Society of Australia, Volume 32, id.e008 13 pp.</journal>
+<pubdate>Mar 2015</pubdate>
+<link type="abstract">
+<name>abstract</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2015PASA...32....8O/abstract</url>
+</link>
+<link type="coreads">
+<name>Co-Reads</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2015PASA...32....8O/coreads</url>
+</link>
+<link type="EPRINT_HTML">
+<name>arXiv Article</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2015PASA...32....8O/EPRINT_HTML</url>
+</link>
+<link type="PUB_HTML">
+<name>Publisher Article</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2015PASA...32....8O/PUB_HTML</url>
+</link>
+<link access="open" type="EPRINT_PDF">
+<name>arXiv PDF</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2015PASA...32....8O/EPRINT_PDF</url>
+</link>
+<link type="PUB_PDF">
+<name>Publisher PDF</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2015PASA...32....8O/PUB_PDF</url>
+</link>
+<url>https://ui.adsabs.harvard.edu/abs/2015PASA...32....8O</url>
+<DOI>10.1017/pasa.2015.7</DOI>
+<eprintid>arXiv:1501.03946</eprintid>
+</record>
+
+<record>
+<bibcode>2011PhRvL.107r1801A</bibcode>
+<title>Search for New Physics in High p&lt;SUB&gt;T&lt;/SUB&gt; Like-Sign Dilepton Events at CDF II</title>
+<author>Aaltonen, T.</author>
+<author>Álvarez González, B.</author>
+<author>Amerio, S.</author>
+<author>Amidei, D.</author>
+<author>Anastassov, A.</author>
+<author>Annovi, A.</author>
+<author>Antos, J.</author>
+<author>Apollinari, G.</author>
+<author>Appel, J. A.</author>
+<author>Apresyan, A.</author>
+<author>Arisawa, T.</author>
+<author>Artikov, A.</author>
+<author>Asaadi, J.</author>
+<author>Ashmanskas, W.</author>
+<author>Auerbach, B.</author>
+<author>Aurisano, A.</author>
+<author>Azfar, F.</author>
+<author>Badgett, W.</author>
+<author>Barbaro-Galtieri, A.</author>
+<author>Barnes, V. E.</author>
+<author>Barnett, B. A.</author>
+<author>Barria, P.</author>
+<author>Bartos, P.</author>
+<author>Bauce, M.</author>
+<author>Bauer, G.</author>
+<author>Bedeschi, F.</author>
+<author>Beecher, D.</author>
+<author>Behari, S.</author>
+<author>Bellettini, G.</author>
+<author>Bellinger, J.</author>
+<author>Benjamin, D.</author>
+<author>Beretvas, A.</author>
+<author>Bhatti, A.</author>
+<author>Binkley, M.</author>
+<author>Bisello, D.</author>
+<author>Bizjak, I.</author>
+<author>Bland, K. R.</author>
+<author>Blumenfeld, B.</author>
+<author>Bocci, A.</author>
+<author>Bodek, A.</author>
+<author>Bortoletto, D.</author>
+<author>Boudreau, J.</author>
+<author>Boveia, A.</author>
+<author>Brigliadori, L.</author>
+<author>Brisuda, A.</author>
+<author>Bromberg, C.</author>
+<author>Brucken, E.</author>
+<author>Bucciantonio, M.</author>
+<author>Budagov, J.</author>
+<author>Budd, H. S.</author>
+<author>Budd, S.</author>
+<author>Burkett, K.</author>
+<author>Busetto, G.</author>
+<author>Bussey, P.</author>
+<author>Buzatu, A.</author>
+<author>Calancha, C.</author>
+<author>Camarda, S.</author>
+<author>Campanelli, M.</author>
+<author>Campbell, M.</author>
+<author>Canelli, F.</author>
+<author>Carls, B.</author>
+<author>Carlsmith, D.</author>
+<author>Carosi, R.</author>
+<author>Carrillo, S.</author>
+<author>Carron, S.</author>
+<author>Casal, B.</author>
+<author>Casarsa, M.</author>
+<author>Castro, A.</author>
+<author>Catastini, P.</author>
+<author>Cauz, D.</author>
+<author>Cavaliere, V.</author>
+<author>Cavalli-Sforza, M.</author>
+<author>Cerri, A.</author>
+<author>Cerrito, L.</author>
+<author>Chen, Y. C.</author>
+<author>Chertok, M.</author>
+<author>Chiarelli, G.</author>
+<author>Chlachidze, G.</author>
+<author>Chlebana, F.</author>
+<author>Cho, K.</author>
+<author>Chokheli, D.</author>
+<author>Chou, J. P.</author>
+<author>Chung, W. H.</author>
+<author>Chung, Y. S.</author>
+<author>Ciobanu, C. I.</author>
+<author>Ciocci, M. A.</author>
+<author>Clark, A.</author>
+<author>Clarke, C.</author>
+<author>Compostella, G.</author>
+<author>Convery, M. E.</author>
+<author>Conway, J.</author>
+<author>Corbo, M.</author>
+<author>Cordelli, M.</author>
+<author>Cox, C. A.</author>
+<author>Cox, D. J.</author>
+<author>Crescioli, F.</author>
+<author>Cuenca Almenar, C.</author>
+<author>Cuevas, J.</author>
+<author>Culbertson, R.</author>
+<author>Dagenhart, D.</author>
+<author>D'Ascenzo, N.</author>
+<author>Datta, M.</author>
+<author>de Barbaro, P.</author>
+<author>de Cecco, S.</author>
+<author>de Lorenzo, G.</author>
+<author>Dell'Orso, M.</author>
+<author>Deluca, C.</author>
+<author>Demortier, L.</author>
+<author>Deng, J.</author>
+<author>Deninno, M.</author>
+<author>Devoto, F.</author>
+<author>D'Errico, M.</author>
+<author>di Canto, A.</author>
+<author>di Ruzza, B.</author>
+<author>Dittmann, J. R.</author>
+<author>D'Onofrio, M.</author>
+<author>Donati, S.</author>
+<author>Dong, P.</author>
+<author>Dorigo, M.</author>
+<author>Dorigo, T.</author>
+<author>Ebina, K.</author>
+<author>Elagin, A.</author>
+<author>Eppig, A.</author>
+<author>Erbacher, R.</author>
+<author>Errede, D.</author>
+<author>Errede, S.</author>
+<author>Ershaidat, N.</author>
+<author>Eusebi, R.</author>
+<author>Fang, H. C.</author>
+<author>Farrington, S.</author>
+<author>Feindt, M.</author>
+<author>Fernandez, J. P.</author>
+<author>Ferrazza, C.</author>
+<author>Field, R.</author>
+<author>Flanagan, G.</author>
+<author>Forrest, R.</author>
+<author>Frank, M. J.</author>
+<author>Franklin, M.</author>
+<author>Freeman, J. C.</author>
+<author>Funakoshi, Y.</author>
+<author>Furic, I.</author>
+<author>Gallinaro, M.</author>
+<author>Galyardt, J.</author>
+<author>Garcia, J. E.</author>
+<author>Garfinkel, A. F.</author>
+<author>Garosi, P.</author>
+<author>Gerberich, H.</author>
+<author>Gerchtein, E.</author>
+<author>Giagu, S.</author>
+<author>Giakoumopoulou, V.</author>
+<author>Giannetti, P.</author>
+<author>Gibson, K.</author>
+<author>Ginsburg, C. M.</author>
+<author>Giokaris, N.</author>
+<author>Giromini, P.</author>
+<author>Giunta, M.</author>
+<author>Giurgiu, G.</author>
+<author>Glagolev, V.</author>
+<author>Glenzinski, D.</author>
+<author>Gold, M.</author>
+<author>Goldin, D.</author>
+<author>Goldschmidt, N.</author>
+<author>Golossanov, A.</author>
+<author>Gomez, G.</author>
+<author>Gomez-Ceballos, G.</author>
+<author>Goncharov, M.</author>
+<author>González, O.</author>
+<author>Gorelov, I.</author>
+<author>Goshaw, A. T.</author>
+<author>Goulianos, K.</author>
+<author>Grinstein, S.</author>
+<author>Grosso-Pilcher, C.</author>
+<author>Group, R. C.</author>
+<author>Guimaraes da Costa, J.</author>
+<author>Gunay-Unalan, Z.</author>
+<author>Haber, C.</author>
+<author>Hahn, S. R.</author>
+<author>Halkiadakis, E.</author>
+<author>Hamaguchi, A.</author>
+<author>Han, J. Y.</author>
+<author>Happacher, F.</author>
+<author>Hara, K.</author>
+<author>Hare, D.</author>
+<author>Hare, M.</author>
+<author>Harr, R. F.</author>
+<author>Hatakeyama, K.</author>
+<author>Hays, C.</author>
+<author>Heck, M.</author>
+<author>Heinrich, J.</author>
+<author>Herndon, M.</author>
+<author>Hewamanage, S.</author>
+<author>Hidas, D.</author>
+<author>Hocker, A.</author>
+<author>Hopkins, W.</author>
+<author>Horn, D.</author>
+<author>Hou, S.</author>
+<author>Hughes, R. E.</author>
+<author>Hurwitz, M.</author>
+<author>Husemann, U.</author>
+<author>Hussain, N.</author>
+<author>Hussein, M.</author>
+<author>Huston, J.</author>
+<author>Introzzi, G.</author>
+<author>Iori, M.</author>
+<author>Ivanov, A.</author>
+<author>James, E.</author>
+<author>Jang, D.</author>
+<author>Jayatilaka, B.</author>
+<author>Jeon, E. J.</author>
+<author>Jha, M. K.</author>
+<author>Jindariani, S.</author>
+<author>Johnson, W.</author>
+<author>Jones, M.</author>
+<author>Joo, K. K.</author>
+<author>Jun, S. Y.</author>
+<author>Junk, T. R.</author>
+<author>Kamon, T.</author>
+<author>Karchin, P. E.</author>
+<author>Kasmi, A.</author>
+<author>Kato, Y.</author>
+<author>Ketchum, W.</author>
+<author>Keung, J.</author>
+<author>Khotilovich, V.</author>
+<author>Kilminster, B.</author>
+<author>Kim, D. H.</author>
+<author>Kim, H. S.</author>
+<author>Kim, H. W.</author>
+<author>Kim, J. E.</author>
+<author>Kim, M. J.</author>
+<author>Kim, S. B.</author>
+<author>Kim, S. H.</author>
+<author>Kim, Y. K.</author>
+<author>Kimura, N.</author>
+<author>Kirby, M.</author>
+<author>Kittiwisit, P.</author>
+<author>Klimenko, S.</author>
+<author>Kondo, K.</author>
+<author>Kong, D. J.</author>
+<author>Konigsberg, J.</author>
+<author>Kotwal, A. V.</author>
+<author>Kreps, M.</author>
+<author>Kroll, J.</author>
+<author>Krop, D.</author>
+<author>Krumnack, N.</author>
+<author>Kruse, M.</author>
+<author>Krutelyov, V.</author>
+<author>Kuhr, T.</author>
+<author>Kurata, M.</author>
+<author>Kwang, S.</author>
+<author>Laasanen, A. T.</author>
+<author>Lami, S.</author>
+<author>Lammel, S.</author>
+<author>Lancaster, M.</author>
+<author>Lander, R. L.</author>
+<author>Lannon, K.</author>
+<author>Lath, A.</author>
+<author>Latino, G.</author>
+<author>Lecompte, T.</author>
+<author>Lee, E.</author>
+<author>Lee, H. S.</author>
+<author>Lee, J. S.</author>
+<author>Lee, S. W.</author>
+<author>Leo, S.</author>
+<author>Leone, S.</author>
+<author>Lewis, J. D.</author>
+<author>Limosani, A.</author>
+<author>Lin, C. -J.</author>
+<author>Linacre, J.</author>
+<author>Lindgren, M.</author>
+<author>Lipeles, E.</author>
+<author>Lister, A.</author>
+<author>Litvintsev, D. O.</author>
+<author>Liu, C.</author>
+<author>Liu, Q.</author>
+<author>Liu, T.</author>
+<author>Lockwitz, S.</author>
+<author>Loginov, A.</author>
+<author>Lucchesi, D.</author>
+<author>Lueck, J.</author>
+<author>Lujan, P.</author>
+<author>Lukens, P.</author>
+<author>Lungu, G.</author>
+<author>Lys, J.</author>
+<author>Lysak, R.</author>
+<author>Madrak, R.</author>
+<author>Maeshima, K.</author>
+<author>Makhoul, K.</author>
+<author>Malik, S.</author>
+<author>Manca, G.</author>
+<author>Manousakis-Katsikakis, A.</author>
+<author>Margaroli, F.</author>
+<author>Marino, C.</author>
+<author>Martínez, M.</author>
+<author>Martínez-Ballarín, R.</author>
+<author>Mastrandrea, P.</author>
+<author>Mattson, M. E.</author>
+<author>Mazzanti, P.</author>
+<author>McFarland, K. S.</author>
+<author>McIntyre, P.</author>
+<author>McNulty, R.</author>
+<author>Mehta, A.</author>
+<author>Mehtala, P.</author>
+<author>Menzione, A.</author>
+<author>Mesropian, C.</author>
+<author>Miao, T.</author>
+<author>Mietlicki, D.</author>
+<author>Mitra, A.</author>
+<author>Miyake, H.</author>
+<author>Moed, S.</author>
+<author>Moggi, N.</author>
+<author>Mondragon, M. N.</author>
+<author>Moon, C. S.</author>
+<author>Moore, R.</author>
+<author>Morello, M. J.</author>
+<author>Morlock, J.</author>
+<author>Movilla Fernandez, P.</author>
+<author>Mukherjee, A.</author>
+<author>Muller, Th.</author>
+<author>Murat, P.</author>
+<author>Mussini, M.</author>
+<author>Nachtman, J.</author>
+<author>Nagai, Y.</author>
+<author>Naganoma, J.</author>
+<author>Nakano, I.</author>
+<author>Napier, A.</author>
+<author>Nett, J.</author>
+<author>Neu, C.</author>
+<author>Neubauer, M. S.</author>
+<author>Nielsen, J.</author>
+<author>Nodulman, L.</author>
+<author>Norniella, O.</author>
+<author>Nurse, E.</author>
+<author>Oakes, L.</author>
+<author>Oh, S. H.</author>
+<author>Oh, Y. D.</author>
+<author>Oksuzian, I.</author>
+<author>Okusawa, T.</author>
+<author>Orava, R.</author>
+<author>Ortolan, L.</author>
+<author>Pagan Griso, S.</author>
+<author>Pagliarone, C.</author>
+<author>Palencia, E.</author>
+<author>Papadimitriou, V.</author>
+<author>Paramonov, A. A.</author>
+<author>Patrick, J.</author>
+<author>Pauletta, G.</author>
+<author>Paulini, M.</author>
+<author>Paus, C.</author>
+<author>Pellett, D. E.</author>
+<author>Penzo, A.</author>
+<author>Phillips, T. J.</author>
+<author>Piacentino, G.</author>
+<author>Pianori, E.</author>
+<author>Pilot, J.</author>
+<author>Pitts, K.</author>
+<author>Plager, C.</author>
+<author>Pondrom, L.</author>
+<author>Porter, R.</author>
+<author>Potamianos, K.</author>
+<author>Poukhov, O.</author>
+<author>Prokoshin, F.</author>
+<author>Pronko, A.</author>
+<author>Ptohos, F.</author>
+<author>Pueschel, E.</author>
+<author>Punzi, G.</author>
+<author>Pursley, J.</author>
+<author>Rahaman, A.</author>
+<author>Ramakrishnan, V.</author>
+<author>Ranjan, N.</author>
+<author>Redondo, I.</author>
+<author>Renton, P.</author>
+<author>Rescigno, M.</author>
+<author>Riddick, T.</author>
+<author>Rimondi, F.</author>
+<author>Ristori, L.</author>
+<author>Robson, A.</author>
+<author>Rodrigo, T.</author>
+<author>Rodriguez, T.</author>
+<author>Rogers, E.</author>
+<author>Rolli, S.</author>
+<author>Roser, R.</author>
+<author>Rossi, M.</author>
+<author>Rubbo, F.</author>
+<author>Ruffini, F.</author>
+<author>Ruiz, A.</author>
+<author>Russ, J.</author>
+<author>Rusu, V.</author>
+<author>Safonov, A.</author>
+<author>Sakumoto, W. K.</author>
+<author>Sakurai, Y.</author>
+<author>Santi, L.</author>
+<author>Sartori, L.</author>
+<author>Sato, K.</author>
+<author>Saveliev, V.</author>
+<author>Savoy-Navarro, A.</author>
+<author>Schlabach, P.</author>
+<author>Schmidt, A.</author>
+<author>Schmidt, E. E.</author>
+<author>Schmidt, M. P.</author>
+<author>Schmitt, M.</author>
+<author>Schwarz, T.</author>
+<author>Scodellaro, L.</author>
+<author>Scribano, A.</author>
+<author>Scuri, F.</author>
+<author>Sedov, A.</author>
+<author>Seidel, S.</author>
+<author>Seiya, Y.</author>
+<author>Semenov, A.</author>
+<author>Sforza, F.</author>
+<author>Sfyrla, A.</author>
+<author>Shalhout, S. Z.</author>
+<author>Shears, T.</author>
+<author>Shepard, P. F.</author>
+<author>Shimojima, M.</author>
+<author>Shiraishi, S.</author>
+<author>Shochet, M.</author>
+<author>Shreyber, I.</author>
+<author>Simonenko, A.</author>
+<author>Sinervo, P.</author>
+<author>Sissakian, A.</author>
+<author>Sliwa, K.</author>
+<author>Smith, J. R.</author>
+<author>Snider, F. D.</author>
+<author>Soha, A.</author>
+<author>Somalwar, S.</author>
+<author>Sorin, V.</author>
+<author>Squillacioti, P.</author>
+<author>Stancari, M.</author>
+<author>Stanitzki, M.</author>
+<author>St. Denis, R.</author>
+<author>Stelzer, B.</author>
+<author>Stelzer-Chilton, O.</author>
+<author>Stentz, D.</author>
+<author>Strologas, J.</author>
+<author>Strycker, G. L.</author>
+<author>Sudo, Y.</author>
+<author>Sukhanov, A.</author>
+<author>Suslov, I.</author>
+<author>Takemasa, K.</author>
+<author>Takeuchi, Y.</author>
+<author>Tang, J.</author>
+<author>Tecchio, M.</author>
+<author>Teng, P. K.</author>
+<author>Thom, J.</author>
+<author>Thome, J.</author>
+<author>Thompson, G. A.</author>
+<author>Thomson, E.</author>
+<author>Ttito-Guzmán, P.</author>
+<author>Tkaczyk, S.</author>
+<author>Toback, D.</author>
+<author>Tokar, S.</author>
+<author>Tollefson, K.</author>
+<author>Tomura, T.</author>
+<author>Tonelli, D.</author>
+<author>Torre, S.</author>
+<author>Torretta, D.</author>
+<author>Totaro, P.</author>
+<author>Trovato, M.</author>
+<author>Tu, Y.</author>
+<author>Ukegawa, F.</author>
+<author>Uozumi, S.</author>
+<author>Varganov, A.</author>
+<author>Vázquez, F.</author>
+<author>Velev, G.</author>
+<author>Vellidis, C.</author>
+<author>Vidal, M.</author>
+<author>Vila, I.</author>
+<author>Vilar, R.</author>
+<author>Vizán, J.</author>
+<author>Vogel, M.</author>
+<author>Volpi, G.</author>
+<author>Wagner, P.</author>
+<author>Wagner, R. L.</author>
+<author>Wakisaka, T.</author>
+<author>Wallny, R.</author>
+<author>Wang, S. M.</author>
+<author>Warburton, A.</author>
+<author>Waters, D.</author>
+<author>Weinberger, M.</author>
+<author>Wester, W. C., III</author>
+<author>Whitehouse, B.</author>
+<author>Whiteson, D.</author>
+<author>Wicklund, A. B.</author>
+<author>Wicklund, E.</author>
+<author>Wilbur, S.</author>
+<author>Wick, F.</author>
+<author>Williams, H. H.</author>
+<author>Wilson, J. S.</author>
+<author>Wilson, P.</author>
+<author>Winer, B. L.</author>
+<author>Wittich, P.</author>
+<author>Wolbers, S.</author>
+<author>Wolfe, H.</author>
+<author>Wright, T.</author>
+<author>Wu, X.</author>
+<author>Wu, Z.</author>
+<author>Yamamoto, K.</author>
+<author>Yamaoka, J.</author>
+<author>Yang, T.</author>
+<author>Yang, U. K.</author>
+<author>Yang, Y. C.</author>
+<author>Yao, W. -M.</author>
+<author>Yeh, G. P.</author>
+<author>Yi, K.</author>
+<author>Yoh, J.</author>
+<author>Yorita, K.</author>
+<author>Yoshida, T.</author>
+<author>Yu, G. B.</author>
+<author>Yu, I.</author>
+<author>Yu, S. S.</author>
+<author>Yun, J. C.</author>
+<author>Zanetti, A.</author>
+<author>Zeng, Y.</author>
+<author>Zucchelli, S.</author>
+<journal>Physical Review Letters, vol. 107, Issue 18, id. 181801</journal>
+<pubdate>Oct 2011</pubdate>
+<link type="abstract">
+<name>abstract</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2011PhRvL.107r1801A/abstract</url>
+</link>
+<link type="coreads">
+<name>Co-Reads</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2011PhRvL.107r1801A/coreads</url>
+</link>
+<link type="EPRINT_HTML">
+<name>arXiv Article</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2011PhRvL.107r1801A/EPRINT_HTML</url>
+</link>
+<link type="PUB_HTML">
+<name>Publisher Article</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2011PhRvL.107r1801A/PUB_HTML</url>
+</link>
+<link access="open" type="EPRINT_PDF">
+<name>arXiv PDF</name>
+<url>https://ui.adsabs.harvard.edu/link_gateway/2011PhRvL.107r1801A/EPRINT_PDF</url>
+</link>
+<url>https://ui.adsabs.harvard.edu/abs/2011PhRvL.107r1801A</url>
+<DOI>10.1103/PhysRevLett.107.181801</DOI>
+<eprintid>arXiv:1108.0101</eprintid>
+</record>
+
+</records>
